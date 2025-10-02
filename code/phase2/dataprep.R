@@ -25,7 +25,7 @@ route_hourly_pre <- hwmeans_raw %>%
 
 # Route roster dataset
 # stageroster_dir <- "https://docs.google.com/spreadsheets/d/1_cG4STjIpBwmfXpxJtGoye7L1waCCFrMW2PIjK8ljEE/edit?gid=1631865340#gid=1631865340"
-stageroster_dir <- 
+stageroster_dir <- read_csv(file.path(git_dir, "data", phase, "Roster of phase 2 stages (descriptive survey take 1).xlsx"))
 
 route_roster <- drive_get(as_id(stageroster_dir)) %>% range_read(sheet = 'route roster') %>%
   rename(strata=Strata, treatment_window=`Treatment window`) %>% 
