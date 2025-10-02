@@ -1,199 +1,199 @@
-park_name,branch_code,stage,strata,route_code,route_name,treatment_window,Time (start hour),in_treatment_window,Observed average frequency (oaf),iqr_oaf,p25_oaf,p50_oaf,p75_oaf,stage_fares,target_freq,calculated_payments,paid_seats
-kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,12,1,29.8,24,18,32,42,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",14.9,9.033333333333333,9
-kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,13,1,42.7777777777778,19,32,40.5,51,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",21.3888888888889,8.12854030501089,8
-kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,14,1,30.4857142857143,25.5,14.5,30,40,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",15.24285714285715,8.664999999999997,9
-kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,15,1,31.7083333333333,20.75,19.25,31,40,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",15.85416666666665,8.451041666666672,8
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,12,1,31.95,16.25,23,27,39.25,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",15.975,8.301910828025477,8
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,13,1,32.7037037037037,16.5,24,34,40.5,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",16.35185185185185,8.34750800182899,8
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,14,1,28.0322580645161,27,15,24,42,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",14.01612903225805,9.327956989247316,9
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,15,1,29.8571428571429,19,19,27,38,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",14.92857142857145,8.499999999999991,8
-kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,12,1,53.4,76.75,17.25,28.5,94,2000.0,26.7,10.023404255319148,10
-kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,13,1,32.3913043478261,20,13.5,22,33.5,2000.0,16.19565217391305,7.2316677482154414,7
-kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,14,1,49.1176470588235,44,26,57,70,2000.0,24.55882352941175,9.08823529411765,9
-kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,15,1,42.3333333333333,36.5,19,22,55.5,2000.0,21.16666666666665,8.660660660660664,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,12,1,60,60,30,60,90,2000.0,30,9.333333333333334,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,13,1,60.8333333333333,61.75,23.25,36.5,85,2000.0,30.41666666666665,8.990196078431374,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,14,1,32.6,30,20,26,50,2000.0,16.3,9.436000000000002,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,15,1,19.2,13.75,10,20,23.75,2000.0,9.6,8.341052631578947,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,12,1,46.1333333333333,33.5,27,45,60.5,2000.0,23.06666666666665,8.662258953168049,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,13,1,50.4117647058824,22,33,45,55,2000.0,25.2058823529412,7.583957219251331,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,14,1,48.4666666666667,32,32,54,64,2000.0,24.23333333333335,8.69895833333333,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,15,1,39.2777777777778,23.75,26.25,40,50,2000.0,19.6388888888889,8.50111111111111,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,12,1,29.4166666666667,14.25,17.5,25,31.75,2000.0,14.70833333333335,7.51443569553805,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,13,1,32.2142857142857,23.75,16.25,25,40,2000.0,16.10714285714285,8.362500000000002,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,14,1,21.5333333333333,13,12.5,20,25.5,2000.0,10.76666666666665,8.0888888888889,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,15,1,22.1052631578947,21,9,25,30,2000.0,11.05263157894735,8.842105263157904,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,12,1,29.16,20,20,27,40,2000.0,14.58,8.897,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,13,1,30.16,34,10,26,44,2000.0,15.08,9.201818181818183,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,14,1,32.4375,36.25,15,30.5,51.25,2000.0,16.21875,9.569512195121952,10
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,15,1,44.1333333333333,23,27.5,35,50.5,2000.0,22.06666666666665,7.882508250825088,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,12,1,29.16,20,20,27,40,2000.0,14.58,8.897,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,13,1,30,31.5,11.5,26,43,2000.0,15,9.116279069767442,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,14,1,27.5263157894737,20,13.5,25,33.5,2000.0,13.76315789473685,8.24823252160251,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,15,1,37.0909090909091,23.25,26,35,49.25,2000.0,18.54545454545455,8.728195662205813,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,12,1,29.5217391304348,20,20,26,40,2000.0,14.7608695652174,8.83369565217391,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,13,1,34.375,29,16,31,45,2000.0,17.1875,8.652777777777779,9
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,14,1,27.7777777777778,23,11.25,24,34.25,2000.0,13.8888888888889,8.322789943227894,8
-kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,15,1,40,26,25,35,51,2000.0,20,8.509803921568627,9
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,12,1,40.92,21,29,43,50,"2000,2500,3000 depending on the stops",20.46,8.2712,8
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,13,1,41.5,20,29,36.5,49,"2000,2500,3000 depending on the stops",20.75,8.071428571428571,8
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,14,1,39.2727272727273,27.5,22.5,37,50,"2000,2500,3000 depending on the stops",19.63636363636365,8.501818181818178,9
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,15,1,47.875,40.25,24.75,38.5,65,"2000,2500,3000 depending on the stops",23.9375,8.84423076923077,9
-kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,12,1,52.6666666666667,15,46,56,61,"zana 2000,nfuufu 2500",26.33333333333335,7.956284153005461,8
-kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,13,1,79.2,15,64,64,79,"zana 2000,nfuufu 2500",39.6,6.982278481012658,7
-kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,14,1,41.4444444444444,34,23,30,57,"zana 2000,nfuufu 2500",20.7222222222222,8.910331384015599,9
-kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,15,1,46.8181818181818,50.25,23.25,36,73.5,"zana 2000,nfuufu 2500",23.4090909090909,9.541125541125542,10
-kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,12,1,52.6666666666667,15,46,56,61,"zana 2000,nfuufu 2500",26.33333333333335,7.956284153005461,8
-kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,13,1,87.8333333333333,54,64,71.5,118,"zana 2000,nfuufu 2500",43.91666666666665,8.789548022598872,9
-kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,14,1,41.4444444444444,34,23,30,57,"zana 2000,nfuufu 2500",20.7222222222222,8.910331384015599,9
-kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,15,1,49.9565217391304,49.5,25.5,37,75,"zana 2000,nfuufu 2500",24.9782608695652,9.337391304347829,9
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_movi_g,MOVIT,2-6,16,1,34.5,28.5,20,34,48.5,2000.0,17.25,9.02061855670103,9
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_movi_g,MOVIT,2-6,17,1,44.25,45.5,13.5,30,59,2000.0,22.125,8.75,9
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,14,1,63.125,16.75,52,61,68.75,2000.0,31.5625,7.572727272727273,8
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,15,1,56.8181818181818,38.5,34.5,52,73,2000.0,28.4090909090909,8.551681195516814,9
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,16,1,46.5,14.25,36.75,42,51,2000.0,23.25,7.61764705882353,8
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,17,1,49.8181818181818,43.5,24.5,41,68,2000.0,24.9090909090909,8.871657754010696,9
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,14,1,88,0,88,88,88,2000.0,44,7,7
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,15,1,43,0,43,43,43,2000.0,21.5,7.000000000000001,7
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,16,1,49,0,49,49,49,2000.0,24.5,7,7
-kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,17,1,41.5,5.5,38.75,41.5,44.25,2000.0,20.75,7.435028248587571,7
-kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,12,1,76.3571428571429,30.5,55,71,85.5,2000.0,38.17857142857145,7.748538011695902,8
-kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,13,1,58.0588235294118,41,36,55,77,2000.0,29.0294117647059,8.721925133689837,9
-kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,14,1,61.4117647058824,22,50,64,72,2000.0,30.7058823529412,8.029411764705877,8
-kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,15,1,57.5714285714286,19.5,46.75,56.5,66.25,2000.0,28.7857142857143,7.9169811320754695,8
-kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,11,1,93,29,68,84,97,3000.0,46.5,7.288659793814432,7
-kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,12,1,71.3333333333333,54,37,74,91,3000.0,35.66666666666665,8.512820512820516,9
-kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,13,1,44.0714285714286,20,35.75,44.5,55.75,3000.0,22.0357142857143,8.46636771300448,8
-kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,14,1,61.7647058823529,42,31,51,73,3000.0,30.88235294117645,8.077356970185338,8
-kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,11,1,93,29,68,84,97,3000.0,46.5,7.288659793814432,7
-kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,12,1,70.1428571428571,55,36.5,59,91.5,3000.0,35.07142857142855,8.633879781420768,9
-kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,13,1,46.0833333333333,18,37.25,44.5,55.25,3000.0,23.04166666666665,8.16138763197587,8
-kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,14,1,62.3125,45.25,30.75,50.5,76,3000.0,31.15625,8.260690789473683,8
-kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,11,1,76.1666666666667,20,52,63.5,72,3000.0,38.08333333333335,6.594907407407404,7
-kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,12,1,77.4444444444444,40,60,80,100,3000.0,38.7222222222222,8.578888888888892,9
-kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,13,1,59,27.75,48.75,60,76.5,3000.0,29.5,8.601307189542483,9
-kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,14,1,97.25,39.75,73.75,90,113.5,3000.0,48.625,8.002202643171806,8
-kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,11,1,102.5,62.5,71.25,102.5,133.75,3000.0,51.25,8.63551401869159,9
-kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,12,1,81.25,57.25,52.25,80.5,109.5,3000.0,40.625,8.80593607305936,9
-kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,13,1,71,11,65.5,71,76.5,3000.0,35.5,7.503267973856208,8
-kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,14,1,85,30,70,85,100,3000.0,42.5,8.05,8
-kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,11,1,87.75,45.25,56,71,101.25,3000.0,43.875,7.933333333333333,8
-kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,12,1,88.75,45,60,99,105,3000.0,44.375,8.083333333333334,8
-kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,13,1,59,27.75,48.75,60,76.5,3000.0,29.5,8.601307189542483,9
-kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,14,1,86.2857142857143,27.5,65,80,92.5,3000.0,43.14285714285715,7.4702702702702695,7
-kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,11,1,90.25,32.25,73.75,87,106,4000.0,45.125,8.040094339622641,8
-kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,12,1,66.125,39.25,45.75,57.5,85,4000.0,33.0625,8.554411764705883,9
-kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,13,1,81,36,66,75,102,4000.0,40.5,8.441176470588236,8
-kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,14,1,74.1,23.5,61,72,84.5,4000.0,37.05,7.861538461538463,8
-kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,11,1,58.5294117647059,39,33,50,72,2000.0,29.26470588235295,8.309640522875815,8
-kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,12,1,55.4545454545455,23.75,40,54.5,63.75,2000.0,27.72727272727275,7.9108734402852,8
-kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,13,1,47.8421052631579,29,34,43,63,2000.0,23.92105263157895,8.68421052631579,9
-kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,14,1,41.1153846153846,28.75,27,38.5,55.75,2000.0,20.5576923076923,8.837530182821665,9
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,11,1,50.4,59.5,21,45,80.5,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",25.2,9.617391304347825,10
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,12,1,33.5,37.5,7.75,25,45.25,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",16.75,8.817679558011049,9
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,13,1,29.2666666666667,32,7.75,24.5,39.75,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",14.63333333333335,8.846121593291398,9
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,14,1,33,35,9,27,44,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",16.5,8.75,9
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,11,1,15.5102040816327,14,7,13,21,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",7.75510204081635,8.8299319727891,9
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,12,1,12.1369863013699,15,3,10,18,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",6.06849315068495,9.280060882800594,9
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,13,1,11.4736842105263,11,4,8.5,15,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",5.73684210526315,8.645614035087727,9
-old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,14,1,7.66355140186916,9.5,2,5,11.5,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",3.83177570093458,9.335229581470946,9
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,11,1,37.6666666666667,7.5,34.5,40,42,"tula 2000,kizingiza 3000,kidokolo 3000",18.83333333333335,7.722222222222216,8
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,12,1,21.1666666666667,19.25,12,13,31.25,"tula 2000,kizingiza 3000,kidokolo 3000",10.58333333333335,9.25866666666666,9
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,13,1,32.1428571428571,44,11.5,21,55.5,"tula 2000,kizingiza 3000,kidokolo 3000",16.07142857142855,9.94594594594595,10
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,14,1,18.4545454545455,14,10,19,24,"tula 2000,kizingiza 3000,kidokolo 3000",9.22727272727275,8.61742424242423,9
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,11,1,34.5,5.5,31.75,34.5,37.25,"tula 2000,kizingiza 3000,kidokolo 3000",17.25,7.516778523489933,8
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,12,1,26.25,26.75,12,24.5,38.75,"tula 2000,kizingiza 3000,kidokolo 3000",13.125,9.258064516129032,9
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,13,1,44.3333333333333,30.5,30,48,60.5,"tula 2000,kizingiza 3000,kidokolo 3000",22.16666666666665,8.870523415977965,9
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,14,1,14.75,15.75,7.75,16.5,23.5,"tula 2000,kizingiza 3000,kidokolo 3000",7.375,9.606382978723405,10
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,11,1,46.8,20.5,32,43,52.5,"tula 2000,kizingiza 3000,kidokolo 3000",23.4,7.760000000000001,8
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,12,1,31.88,31,12,23,43,"tula 2000,kizingiza 3000,kidokolo 3000",15.94,8.810232558139536,9
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,13,1,35.551724137931,42,12,33,54,"tula 2000,kizingiza 3000,kidokolo 3000",17.7758620689655,9.391443167305242,9
-old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,14,1,22.2972972972973,20,10,20,30,"tula 2000,kizingiza 3000,kidokolo 3000",11.14864864864865,8.797297297297296,9
-old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,13,1,34,0,34,34,34,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",17,7,7
-old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,14,1,36,0,36,36,36,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",18,7,7
-old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,15,1,47,8,43,47,51,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",23.5,7.549019607843138,8
-old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,16,1,18,12,12,18,24,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",9,8.75,9
-old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,13,1,55.7692307692308,27,35,49,62,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",27.8846153846154,7.703473945409425,8
-old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,14,1,43.4166666666667,20.5,28.25,35,48.75,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.70833333333335,7.76581196581196,8
-old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,15,1,43.5,28.25,26.25,40,54.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.75,8.412844036697248,8
-old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,16,1,45.65,40.25,20.25,32.5,60.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",22.825,8.718181818181817,9
-old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,11,1,61.8571428571429,14.5,44.5,50,59,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",30.92857142857145,6.661016949152538,7
-old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,12,1,39.1666666666667,24,27,42,51,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",19.58333333333335,8.624183006535944,9
-old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,13,1,41.0909090909091,31,25,46,56,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",20.54545454545455,8.863636363636363,9
-old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,14,1,62.4166666666667,51.75,30.75,59,82.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",31.20833333333335,8.704040404040402,9
-old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,13,1,18.6444444444444,13,7,15,20,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",9.3222222222222,7.47444444444446,7
-old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,14,1,16.12,13,7,12.5,20,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",8.06,8.357999999999999,8
-old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,15,1,11.0615384615385,12,4,8,16,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",5.53076923076925,9.160576923076906,9
-old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,16,1,11.0289855072464,11,4,9,15,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",5.5144927536232,8.853140096618347,9
-old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,13,1,43.2857142857143,27,22.25,36,49.25,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.64285714285715,7.847715736040608,8
-old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,14,1,48.0625,30.25,28.75,43,59,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",24.03125,8.297669491525424,8
-old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,15,1,43.4705882352941,31,29,40,60,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.73529411764705,8.92843137254902,9
-old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,16,1,28.3809523809524,29,11,24,40,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",14.1904761904762,9.03333333333333,9
-old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,11,1,61.625,16,45.25,51.5,61.25,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",30.8125,6.957142857142857,7
-old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,12,1,42.6428571428571,11.75,38.25,42,50,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.32142857142855,8.030000000000006,8
-old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,13,1,36.4,22.5,25,35,47.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",18.2,8.63578947368421,9
-old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,14,1,48.2,33.5,30,40,63.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",24.1,8.686614173228346,9
-new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,9,1,44.75,31.25,23.75,34,55,"2000, 3000 depending on the stop",22.375,8.304545454545453,8
-new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,10,1,89.1,35.5,70.25,91.5,105.75,"2000, 3000 depending on the stop",44.55,8.10212765957447,8
-new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,11,1,72.5,39.5,42,49,81.5,"2000, 3000 depending on the stop",36.25,7.773006134969325,8
-new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,12,1,92.5833333333333,76.5,48.75,96,125.25,"2000, 3000 depending on the stop",46.29166666666665,8.825681969394545,9
-new_taxi_park,105,105: Bweyogerere,D,bwey_kina_n,KINAWATAKA,9-1,10,1,106,0,106,106,106,"2000, 3000 depending on the stop",53,7,7
-new_taxi_park,105,105: Bweyogerere,D,bwey_kina_n,KINAWATAKA,9-1,11,1,92,0,92,92,92,"2000, 3000 depending on the stop",46,7,7
-new_taxi_park,105,105: Bweyogerere,D,bwey_namb_n,NAMBOOLE,9-1,10,1,106,0,106,106,106,"2000, 3000 depending on the stop",53,7,7
-new_taxi_park,105,105: Bweyogerere,D,bwey_namb_n,NAMBOOLE,9-1,11,1,92,0,92,92,92,"2000, 3000 depending on the stop",46,7,7
-new_taxi_park,98,98: Gayaza B,E,gaya_buwa_n,BUWAMBO,8-12,11,1,23,0,23,23,23,"2000,3000,4000,5000 depending on the stop",11.5,7,7
-new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,GAYAZA,8-12,9,1,39.9166666666667,23,27.75,40.5,50.75,"2000,3000,4000,5000 depending on the stop",19.95833333333335,8.494252873563214,8
-new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,GAYAZA,8-12,10,1,36.1363636363636,24,25.25,32.5,49.25,"2000,3000,4000,5000 depending on the stop",18.0681818181818,8.863867097369642,9
-new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,GAYAZA,8-12,11,1,26.84375,25.75,11.25,27.5,37,"2000,3000,4000,5000 depending on the stop",13.421875,8.921452702702704,9
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,10,1,41.25,18.25,28.75,42.5,47,2000.0,20.625,7.856382978723404,8
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,11,1,39.6190476190476,33,23,46,56,2000.0,19.8095238095238,9.047619047619051,9
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,12,1,42.4347826086956,15,26.5,32,41.5,2000.0,21.2173913043478,6.842325825039296,7
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,13,1,31.3333333333333,23,17,30,40,2000.0,15.66666666666665,8.516666666666671,9
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_unat_n,UNATEETE KIKAJJO,10-2,11,1,75,0,75,75,75,2000.0,37.5,7,7
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_unat_n,UNATEETE KIKAJJO,10-2,12,1,75,0,75,75,75,2000.0,37.5,7,7
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_unat_n,UNATEETE KIKAJJO,10-2,13,1,40,5,37.5,40,42.5,2000.0,20,7.411764705882353,7
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,10,1,33.3333333333333,10,27.5,30,37.5,2000.0,16.66666666666665,7.777777777777784,8
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,11,1,55,5,52.5,55,57.5,2000.0,27.5,7.304347826086957,7
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,12,1,69.4285714285714,58,35,70,93,2000.0,34.7142857142857,8.7741935483871,9
-new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,13,1,26.9230769230769,20,15,28,35,2000.0,13.46153846153845,8.61538461538462,9
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,11,1,90.6,42,61,61,103,2000.0,45.3,7.842718446601942,8
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,12,1,54.3333333333333,20.5,45.25,58.5,65.75,2000.0,27.16666666666665,8.215462610899877,8
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,13,1,36.5714285714286,14,28,31,42,2000.0,18.2857142857143,7.9047619047619,8
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,14,1,32.125,9.5,27.25,36,36.75,2000.0,16.0625,7.8809523809523805,8
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,11,1,68.9375,47,41.75,61,88.75,2000.0,34.46875,8.562676056338029,9
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,12,1,46.2380952380952,17,38,42,55,2000.0,23.1190476190476,8.115151515151519,8
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,13,1,31.9583333333333,10,25.75,29.5,35.75,2000.0,15.97916666666665,7.742424242424249,8
-new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,14,1,34.35,23.5,19.75,34,43.25,2000.0,17.175,8.440462427745665,8
-new_taxi_park,103,103: Mukono A,F,muka_kayu_n,"KAYUNGA, KIYUNGA",11-3,13,1,61,0,61,61,61,4000.0,30.5,7,7
-new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,11,1,52.5833333333333,25,40,53.5,65,4000.0,26.29166666666665,8.33717948717949,8
-new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,12,1,45.8181818181818,42.5,28,38,70.5,4000.0,22.9090909090909,9.450676982591878,9
-new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,13,1,63.9411764705882,24,43,57,67,4000.0,31.9705882352941,7.3195785776997395,7
-new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,14,1,45.6428571428571,29.5,29.25,44,58.75,4000.0,22.82142857142855,8.56170212765958,9
-new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,11,1,96.8,50,70,80,120,2000.0,48.4,8.3533333333333335,8
-new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,12,1,83.2222222222222,47,53,80,100,2000.0,41.6111111111111,8.174444444444447,8
-new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,13,1,96.25,21.75,84.25,94,106,2000.0,48.125,7.643867924528302,8
-new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,14,1,102.5,126,44,111.5,170,2000.0,51.25,9.779411764705882,10
-new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,11,1,58.9444444444444,35.5,39.75,46.5,75.25,"2000, 2500 depending on the stop",29.4722222222222,8.516795865633078,9
-new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,12,1,70.6,54,48.25,60.5,102.25,"2000, 2500 depending on the stop",35.3,9.166748166259168,9
-new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,13,1,66.7142857142857,31,53,70,84,"2000, 2500 depending on the stop",33.35714285714285,8.440476190476192,8
-new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,14,1,53.6363636363636,33.5,35,45,68.5,"2000, 2500 depending on the stop",26.8181818181818,8.518911745189122,9
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kisa_n,KISASI KYANJA,11-3,11,1,50,0,50,50,50,"ntinda 2000, kungu 2500",25,7.000000000000001,7
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kisa_n,KISASI KYANJA,11-3,14,1,162,0,162,162,162,"ntinda 2000, kungu 2500",81,7,7
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,11,1,66.3076923076923,40,50,64,90,"ntinda 2000, kungu 2500",33.15384615384615,8.842735042735043,9
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,12,1,65.2222222222222,45,34,62,79,"ntinda 2000, kungu 2500",32.6111111111111,8.220815752461323,8
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,13,1,56.8333333333333,33.75,40,59,73.75,"ntinda 2000, kungu 2500",28.41666666666665,8.605649717514128,9
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,14,1,78.8181818181818,84,39.5,63,123.5,"ntinda 2000, kungu 2500",39.4090909090909,9.532572690467427,10
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,11,1,68.4666666666667,45.5,47.5,64,93,"ntinda 2000, kungu 2500",34.23333333333335,8.846594982078852,9
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,12,1,60.7272727272727,41.5,33,52,74.5,"ntinda 2000, kungu 2500",30.36363636363635,8.294081757169009,8
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,13,1,57.2,36.5,39,69,75.5,"ntinda 2000, kungu 2500",28.6,8.696688741721854,9
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,14,1,62.3125,55.25,27.5,39.5,82.75,"ntinda 2000, kungu 2500",31.15625,8.728851963746225,9
-new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,11,1,118.166666666667,29.75,100,122,129.75,"2500, 3000 depending on the stop",59.0833333333335,7.624919717405248,8
-new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,12,1,129.75,11.75,125,132,136.75,"2500, 3000 depending on the stop",64.875,7.358318098720293,7
-new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,13,1,111.545454545455,68,79.5,105,147.5,"2500, 3000 depending on the stop",55.7727272727275,8.706317411402136,9
-new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,14,1,57.5,34.75,36.25,48.5,71,"2500, 3000 depending on the stop",28.75,8.330985915492958,8
-new_taxi_park,111,111: Ntinda,G,ntin_namu_n,NAMUGONGO,11-3,12,1,134,0,134,134,134,"2500, 3000 depending on the stop",67,7,7
-new_taxi_park,111,111: Ntinda,G,ntin_namu_n,NAMUGONGO,11-3,13,1,60,0,60,60,60,"2500, 3000 depending on the stop",30,7,7
-new_taxi_park,111,111: Ntinda,G,ntin_namu_n,NAMUGONGO,11-3,14,1,89,0,89,89,89,"2500, 3000 depending on the stop",44.5,7,7
-new_taxi_park,111,111: Ntinda,G,ntin_ntin_n,NTINDA,11-3,12,1,134,0,134,134,134,"2500, 3000 depending on the stop",67,7,7
-new_taxi_park,111,111: Ntinda,G,ntin_ntin_n,NTINDA,11-3,13,1,60,0,60,60,60,"2500, 3000 depending on the stop",30,7,7
-new_taxi_park,111,111: Ntinda,G,ntin_ntin_n,NTINDA,11-3,14,1,89,0,89,89,89,"2500, 3000 depending on the stop",44.5,7,7
+park_name,branch_code,stage,strata,route_code,route_name,treatment_window,Time (start hour),in_treatment_window,Number of observations,Observed average frequency (oaf),iqr_oaf,p25_oaf,p50_oaf,p75_oaf,stage_fares,target_freq,calculated_payments,paid_seats
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,12,1,25,29.8,24,18,32,42,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",14.9,9.033333333333333,9
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,13,1,18,42.7777777777778,19,32,40.5,51,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",21.3888888888889,8.12854030501089,8
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,14,1,35,30.4857142857143,25.5,14.5,30,40,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",15.24285714285715,8.664999999999997,9
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,ENTEBBE EXPRESS,12-4,15,1,24,31.7083333333333,20.75,19.25,31,40,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",15.85416666666665,8.451041666666672,8
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,12,1,20,31.95,16.25,23,27,39.25,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",15.975,8.301910828025477,8
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,13,1,27,32.7037037037037,16.5,24,34,40.5,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",16.35185185185185,8.34750800182899,8
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,14,1,31,28.0322580645161,27,15,24,42,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",14.01612903225805,9.327956989247316,9
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,ENTEBBE KU LUKADDE,12-4,15,1,21,29.8571428571429,19,19,27,38,"Express route 5000, lukadde route 3000,4000,5000 depending on the stops",14.92857142857145,8.499999999999991,8
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,12,1,20,53.4,76.75,17.25,28.5,94,2000.0,26.7,10.023404255319148,10
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,13,1,23,32.3913043478261,20,13.5,22,33.5,2000.0,16.19565217391305,7.2316677482154414,7
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,14,1,17,49.1176470588235,44,26,57,70,2000.0,24.55882352941175,9.08823529411765,9
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,SPEKE RESORT,12-4,15,1,3,42.3333333333333,36.5,19,22,55.5,2000.0,21.16666666666665,8.660660660660664,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,12,1,2,60,60,30,60,90,2000.0,30,9.333333333333334,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,13,1,6,60.8333333333333,61.75,23.25,36.5,85,2000.0,30.41666666666665,8.990196078431374,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,14,1,5,32.6,30,20,26,50,2000.0,16.3,9.436000000000002,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_bujo_g,BUJJUKO,12-4,15,1,10,19.2,13.75,10,20,23.75,2000.0,9.6,8.341052631578947,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,12,1,15,46.1333333333333,33.5,27,45,60.5,2000.0,23.06666666666665,8.662258953168049,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,13,1,17,50.4117647058824,22,33,45,55,2000.0,25.2058823529412,7.583957219251331,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,14,1,15,48.4666666666667,32,32,54,64,2000.0,24.23333333333335,8.69895833333333,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_buye_g,BUYERA-TEMANGARO,12-4,15,1,18,39.2777777777778,23.75,26.25,40,50,2000.0,19.6388888888889,8.50111111111111,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,12,1,12,29.4166666666667,14.25,17.5,25,31.75,2000.0,14.70833333333335,7.51443569553805,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,13,1,14,32.2142857142857,23.75,16.25,25,40,2000.0,16.10714285714285,8.362500000000002,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,14,1,15,21.5333333333333,13,12.5,20,25.5,2000.0,10.76666666666665,8.0888888888889,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_kawu_g,KAWOKO,12-4,15,1,19,22.1052631578947,21,9,25,30,2000.0,11.05263157894735,8.842105263157904,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,12,1,25,29.16,20,20,27,40,2000.0,14.58,8.897,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,13,1,25,30.16,34,10,26,44,2000.0,15.08,9.201818181818183,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,14,1,16,32.4375,36.25,15,30.5,51.25,2000.0,16.21875,9.569512195121952,10
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_luga_g,LUGALA,12-4,15,1,15,44.1333333333333,23,27.5,35,50.5,2000.0,22.06666666666665,7.882508250825088,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,12,1,25,29.16,20,20,27,40,2000.0,14.58,8.897,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,13,1,26,30,31.5,11.5,26,43,2000.0,15,9.116279069767442,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,14,1,19,27.5263157894737,20,13.5,25,33.5,2000.0,13.76315789473685,8.24823252160251,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_masa_g,MASANAFU,12-4,15,1,22,37.0909090909091,23.25,26,35,49.25,2000.0,18.54545454545455,8.728195662205813,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,12,1,23,29.5217391304348,20,20,26,40,2000.0,14.7608695652174,8.83369565217391,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,13,1,24,34.375,29,16,31,45,2000.0,17.1875,8.652777777777779,9
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,14,1,18,27.7777777777778,23,11.25,24,34.25,2000.0,13.8888888888889,8.322789943227894,8
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_nase_g,NASERE,12-4,15,1,17,40,26,25,35,51,2000.0,20,8.509803921568627,9
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,12,1,25,40.92,21,29,43,50,"2000,2500,3000 depending on the stops",20.46,8.2712,8
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,13,1,16,41.5,20,29,36.5,49,"2000,2500,3000 depending on the stops",20.75,8.071428571428571,8
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,14,1,22,39.2727272727273,27.5,22.5,37,50,"2000,2500,3000 depending on the stops",19.63636363636365,8.501818181818178,9
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,MATUGGA,12-4,15,1,24,47.875,40.25,24.75,38.5,65,"2000,2500,3000 depending on the stops",23.9375,8.84423076923077,9
+kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,12,1,3,52.6666666666667,15,46,56,61,"zana 2000,nfuufu 2500",26.33333333333335,7.956284153005461,8
+kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,13,1,5,79.2,15,64,64,79,"zana 2000,nfuufu 2500",39.6,6.982278481012658,7
+kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,14,1,9,41.4444444444444,34,23,30,57,"zana 2000,nfuufu 2500",20.7222222222222,8.910331384015599,9
+kisenyi_gwanda,14,14: Nyanama,B,nyan_nfuu_g,NFUUFU,12-4,15,1,22,46.8181818181818,50.25,23.25,36,73.5,"zana 2000,nfuufu 2500",23.4090909090909,9.541125541125542,10
+kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,12,1,3,52.6666666666667,15,46,56,61,"zana 2000,nfuufu 2500",26.33333333333335,7.956284153005461,8
+kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,13,1,6,87.8333333333333,54,64,71.5,118,"zana 2000,nfuufu 2500",43.91666666666665,8.789548022598872,9
+kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,14,1,9,41.4444444444444,34,23,30,57,"zana 2000,nfuufu 2500",20.7222222222222,8.910331384015599,9
+kisenyi_gwanda,14,14: Nyanama,B,nyan_zana_g,ZANA,12-4,15,1,23,49.9565217391304,49.5,25.5,37,75,"zana 2000,nfuufu 2500",24.9782608695652,9.337391304347829,9
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_movi_g,MOVIT,2-6,16,1,4,34.5,28.5,20,34,48.5,2000.0,17.25,9.02061855670103,9
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_movi_g,MOVIT,2-6,17,1,12,44.25,45.5,13.5,30,59,2000.0,22.125,8.75,9
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,14,1,8,63.125,16.75,52,61,68.75,2000.0,31.5625,7.572727272727273,8
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,15,1,11,56.8181818181818,38.5,34.5,52,73,2000.0,28.4090909090909,8.551681195516814,9
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,16,1,14,46.5,14.25,36.75,42,51,2000.0,23.25,7.61764705882353,8
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,PASTOR TOM,2-6,17,1,11,49.8181818181818,43.5,24.5,41,68,2000.0,24.9090909090909,8.871657754010696,9
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,14,1,1,88,0,88,88,88,2000.0,44,7,7
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,15,1,1,43,0,43,43,43,2000.0,21.5,7.000000000000001,7
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,16,1,1,49,0,49,49,49,2000.0,24.5,7,7
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_wank_g,WANKULUKUKU,2-6,17,1,2,41.5,5.5,38.75,41.5,44.25,2000.0,20.75,7.435028248587571,7
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,12,1,14,76.3571428571429,30.5,55,71,85.5,2000.0,38.17857142857145,7.748538011695902,8
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,13,1,17,58.0588235294118,41,36,55,77,2000.0,29.0294117647059,8.721925133689837,9
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,14,1,17,61.4117647058824,22,50,64,72,2000.0,30.7058823529412,8.029411764705877,8
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,MUNYONYO ROUND ABOUT,12-4,15,1,14,57.5714285714286,19.5,46.75,56.5,66.25,2000.0,28.7857142857143,7.9169811320754695,8
+kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,11,1,6,93,29,68,84,97,3000.0,46.5,7.288659793814432,7
+kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,12,1,15,71.3333333333333,54,37,74,91,3000.0,35.66666666666665,8.512820512820516,9
+kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,13,1,14,44.0714285714286,20,35.75,44.5,55.75,3000.0,22.0357142857143,8.46636771300448,8
+kisenyi_gwanda,13,13: Namasuba,C,nama_lubu_g,LUBUGUMU,11-3,14,1,17,61.7647058823529,42,31,51,73,3000.0,30.88235294117645,8.077356970185338,8
+kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,11,1,6,93,29,68,84,97,3000.0,46.5,7.288659793814432,7
+kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,12,1,14,70.1428571428571,55,36.5,59,91.5,3000.0,35.07142857142855,8.633879781420768,9
+kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,13,1,12,46.0833333333333,18,37.25,44.5,55.25,3000.0,23.04166666666665,8.16138763197587,8
+kisenyi_gwanda,13,13: Namasuba,C,nama_zzan_g,ZZANA,11-3,14,1,16,62.3125,45.25,30.75,50.5,76,3000.0,31.15625,8.260690789473683,8
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,11,1,6,76.1666666666667,20,52,63.5,72,3000.0,38.08333333333335,6.594907407407404,7
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,12,1,9,77.4444444444444,40,60,80,100,3000.0,38.7222222222222,8.578888888888892,9
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,13,1,6,59,27.75,48.75,60,76.5,3000.0,29.5,8.601307189542483,9
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,BUKERERE,11-3,14,1,4,97.25,39.75,73.75,90,113.5,3000.0,48.625,8.002202643171806,8
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,11,1,2,102.5,62.5,71.25,102.5,133.75,3000.0,51.25,8.63551401869159,9
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,12,1,4,81.25,57.25,52.25,80.5,109.5,3000.0,40.625,8.80593607305936,9
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,13,1,2,71,11,65.5,71,76.5,3000.0,35.5,7.503267973856208,8
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,KIRA,11-3,14,1,3,85,30,70,85,100,3000.0,42.5,8.05,8
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,11,1,8,87.75,45.25,56,71,101.25,3000.0,43.875,7.933333333333333,8
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,12,1,12,88.75,45,60,99,105,3000.0,44.375,8.083333333333334,8
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,13,1,6,59,27.75,48.75,60,76.5,3000.0,29.5,8.601307189542483,9
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,NAMUGONGO,11-3,14,1,7,86.2857142857143,27.5,65,80,92.5,3000.0,43.14285714285715,7.4702702702702695,7
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,11,1,12,90.25,32.25,73.75,87,106,4000.0,45.125,8.040094339622641,8
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,12,1,8,66.125,39.25,45.75,57.5,85,4000.0,33.0625,8.554411764705883,9
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,13,1,15,81,36,66,75,102,4000.0,40.5,8.441176470588236,8
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,MUKONO-LUGAZI,11-3,14,1,10,74.1,23.5,61,72,84.5,4000.0,37.05,7.861538461538463,8
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,11,1,17,58.5294117647059,39,33,50,72,2000.0,29.26470588235295,8.309640522875815,8
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,12,1,22,55.4545454545455,23.75,40,54.5,63.75,2000.0,27.72727272727275,7.9108734402852,8
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,13,1,19,47.8421052631579,29,34,43,63,2000.0,23.92105263157895,8.68421052631579,9
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,KAJJANSI,11-3,14,1,26,41.1153846153846,28.75,27,38.5,55.75,2000.0,20.5576923076923,8.837530182821665,9
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,11,1,15,50.4,59.5,21,45,80.5,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",25.2,9.617391304347825,10
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,12,1,36,33.5,37.5,7.75,25,45.25,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",16.75,8.817679558011049,9
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,13,1,30,29.2666666666667,32,7.75,24.5,39.75,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",14.63333333333335,8.846121593291398,9
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,KAWANDA KILINYABIGO,11-3,14,1,29,33,35,9,27,44,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",16.5,8.75,9
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,11,1,49,15.5102040816327,14,7,13,21,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",7.75510204081635,8.8299319727891,9
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,12,1,73,12.1369863013699,15,3,10,18,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",6.06849315068495,9.280060882800594,9
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,13,1,76,11.4736842105263,11,4,8.5,15,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",5.73684210526315,8.645614035087727,9
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_matu,MATUGGA MABANDA,11-3,14,1,107,7.66355140186916,9.5,2,5,11.5,"matuuga mabanda 3000, kawanda kirinyabigo 3000,tula road 2500 though it starts loading at 5pm",3.83177570093458,9.335229581470946,9
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,11,1,3,37.6666666666667,7.5,34.5,40,42,"tula 2000,kizingiza 3000,kidokolo 3000",18.83333333333335,7.722222222222216,8
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,12,1,6,21.1666666666667,19.25,12,13,31.25,"tula 2000,kizingiza 3000,kidokolo 3000",10.58333333333335,9.25866666666666,9
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,13,1,7,32.1428571428571,44,11.5,21,55.5,"tula 2000,kizingiza 3000,kidokolo 3000",16.07142857142855,9.94594594594595,10
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kido,KIDOKOLO,11-3,14,1,11,18.4545454545455,14,10,19,24,"tula 2000,kizingiza 3000,kidokolo 3000",9.22727272727275,8.61742424242423,9
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,11,1,2,34.5,5.5,31.75,34.5,37.25,"tula 2000,kizingiza 3000,kidokolo 3000",17.25,7.516778523489933,8
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,12,1,4,26.25,26.75,12,24.5,38.75,"tula 2000,kizingiza 3000,kidokolo 3000",13.125,9.258064516129032,9
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,13,1,3,44.3333333333333,30.5,30,48,60.5,"tula 2000,kizingiza 3000,kidokolo 3000",22.16666666666665,8.870523415977965,9
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_kizi,KIZINGIZA,11-3,14,1,4,14.75,15.75,7.75,16.5,23.5,"tula 2000,kizingiza 3000,kidokolo 3000",7.375,9.606382978723405,10
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,11,1,15,46.8,20.5,32,43,52.5,"tula 2000,kizingiza 3000,kidokolo 3000",23.4,7.760000000000001,8
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,12,1,25,31.88,31,12,23,43,"tula 2000,kizingiza 3000,kidokolo 3000",15.94,8.810232558139536,9
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,13,1,29,35.551724137931,42,12,33,54,"tula 2000,kizingiza 3000,kidokolo 3000",17.7758620689655,9.391443167305242,9
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,TULA KILOKOLE,11-3,14,1,37,22.2972972972973,20,10,20,30,"tula 2000,kizingiza 3000,kidokolo 3000",11.14864864864865,8.797297297297296,9
+old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,13,1,1,34,0,34,34,34,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",17,7,7
+old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,14,1,1,36,0,36,36,36,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",18,7,7
+old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,15,1,2,47,8,43,47,51,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",23.5,7.549019607843138,8
+old_taxi_park,55,55: Ndejje,D,ndej_buna,BUNAMWAYA NFUUFU,1-5,16,1,2,18,12,12,18,24,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",9,8.75,9
+old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,13,1,13,55.7692307692308,27,35,49,62,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",27.8846153846154,7.703473945409425,8
+old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,14,1,12,43.4166666666667,20.5,28.25,35,48.75,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.70833333333335,7.76581196581196,8
+old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,15,1,14,43.5,28.25,26.25,40,54.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.75,8.412844036697248,8
+old_taxi_park,55,55: Ndejje,D,ndej_kana,KANAABA,1-5,16,1,20,45.65,40.25,20.25,32.5,60.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",22.825,8.718181818181817,9
+old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,11,1,7,61.8571428571429,14.5,44.5,50,59,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",30.92857142857145,6.661016949152538,7
+old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,12,1,12,39.1666666666667,24,27,42,51,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",19.58333333333335,8.624183006535944,9
+old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,13,1,11,41.0909090909091,31,25,46,56,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",20.54545454545455,8.863636363636363,9
+old_taxi_park,55,55: Ndejje,D,ndej_kibu,KIBUTIKA,11-3,14,1,12,62.4166666666667,51.75,30.75,59,82.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",31.20833333333335,8.704040404040402,9
+old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,13,1,45,18.6444444444444,13,7,15,20,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",9.3222222222222,7.47444444444446,7
+old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,14,1,50,16.12,13,7,12.5,20,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",8.06,8.357999999999999,8
+old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,15,1,65,11.0615384615385,12,4,8,16,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",5.53076923076925,9.160576923076906,9
+old_taxi_park,55,55: Ndejje,D,ndej_lubu,LUBUGUMU KAKOLA,1-5,16,1,69,11.0289855072464,11,4,9,15,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",5.5144927536232,8.853140096618347,9
+old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,13,1,14,43.2857142857143,27,22.25,36,49.25,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.64285714285715,7.847715736040608,8
+old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,14,1,16,48.0625,30.25,28.75,43,59,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",24.03125,8.297669491525424,8
+old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,15,1,17,43.4705882352941,31,29,40,60,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.73529411764705,8.92843137254902,9
+old_taxi_park,55,55: Ndejje,D,ndej_nyan,NYANAMA VIA NFUNFU,1-5,16,1,21,28.3809523809524,29,11,24,40,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",14.1904761904762,9.03333333333333,9
+old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,11,1,8,61.625,16,45.25,51.5,61.25,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",30.8125,6.957142857142857,7
+old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,12,1,14,42.6428571428571,11.75,38.25,42,50,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",21.32142857142855,8.030000000000006,8
+old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,13,1,15,36.4,22.5,25,35,47.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",18.2,8.63578947368421,9
+old_taxi_park,55,55: Ndejje,D,ndej_zant,ZANTA,11-3,14,1,15,48.2,33.5,30,40,63.5,"kibutika, zanta,lubugumu 3000,nfuufu 2500,kanaaba 3500",24.1,8.686614173228346,9
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,9,1,12,44.75,31.25,23.75,34,55,"2000, 3000 depending on the stop",22.375,8.304545454545453,8
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,10,1,10,89.1,35.5,70.25,91.5,105.75,"2000, 3000 depending on the stop",44.55,8.10212765957447,8
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,11,1,6,72.5,39.5,42,49,81.5,"2000, 3000 depending on the stop",36.25,7.773006134969325,8
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,BWEYOGERERE,9-1,12,1,12,92.5833333333333,76.5,48.75,96,125.25,"2000, 3000 depending on the stop",46.29166666666665,8.825681969394545,9
+new_taxi_park,105,105: Bweyogerere,D,bwey_kina_n,KINAWATAKA,9-1,10,1,1,106,0,106,106,106,"2000, 3000 depending on the stop",53,7,7
+new_taxi_park,105,105: Bweyogerere,D,bwey_kina_n,KINAWATAKA,9-1,11,1,1,92,0,92,92,92,"2000, 3000 depending on the stop",46,7,7
+new_taxi_park,105,105: Bweyogerere,D,bwey_namb_n,NAMBOOLE,9-1,10,1,1,106,0,106,106,106,"2000, 3000 depending on the stop",53,7,7
+new_taxi_park,105,105: Bweyogerere,D,bwey_namb_n,NAMBOOLE,9-1,11,1,1,92,0,92,92,92,"2000, 3000 depending on the stop",46,7,7
+new_taxi_park,98,98: Gayaza B,E,gaya_buwa_n,BUWAMBO,8-12,11,1,1,23,0,23,23,23,"2000,3000,4000,5000 depending on the stop",11.5,7,7
+new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,GAYAZA,8-12,9,1,12,39.9166666666667,23,27.75,40.5,50.75,"2000,3000,4000,5000 depending on the stop",19.95833333333335,8.494252873563214,8
+new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,GAYAZA,8-12,10,1,22,36.1363636363636,24,25.25,32.5,49.25,"2000,3000,4000,5000 depending on the stop",18.0681818181818,8.863867097369642,9
+new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,GAYAZA,8-12,11,1,32,26.84375,25.75,11.25,27.5,37,"2000,3000,4000,5000 depending on the stop",13.421875,8.921452702702704,9
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,10,1,8,41.25,18.25,28.75,42.5,47,2000.0,20.625,7.856382978723404,8
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,11,1,21,39.6190476190476,33,23,46,56,2000.0,19.8095238095238,9.047619047619051,9
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,12,1,23,42.4347826086956,15,26.5,32,41.5,2000.0,21.2173913043478,6.842325825039296,7
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,BUSEGA ROUND ABOUT,10-2,13,1,33,31.3333333333333,23,17,30,40,2000.0,15.66666666666665,8.516666666666671,9
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_unat_n,UNATEETE KIKAJJO,10-2,11,1,1,75,0,75,75,75,2000.0,37.5,7,7
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_unat_n,UNATEETE KIKAJJO,10-2,12,1,1,75,0,75,75,75,2000.0,37.5,7,7
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_unat_n,UNATEETE KIKAJJO,10-2,13,1,2,40,5,37.5,40,42.5,2000.0,20,7.411764705882353,7
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,10,1,3,33.3333333333333,10,27.5,30,37.5,2000.0,16.66666666666665,7.777777777777784,8
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,11,1,2,55,5,52.5,55,57.5,2000.0,27.5,7.304347826086957,7
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,12,1,7,69.4285714285714,58,35,70,93,2000.0,34.7142857142857,8.7741935483871,9
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_vete_n,VETERANS MARKET,10-2,13,1,13,26.9230769230769,20,15,28,35,2000.0,13.46153846153845,8.61538461538462,9
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,11,1,5,90.6,42,61,61,103,2000.0,45.3,7.842718446601942,8
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,12,1,6,54.3333333333333,20.5,45.25,58.5,65.75,2000.0,27.16666666666665,8.215462610899877,8
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,13,1,7,36.5714285714286,14,28,31,42,2000.0,18.2857142857143,7.9047619047619,8
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_bugo_n,BUGOLO BRIDGE,11-3,14,1,8,32.125,9.5,27.25,36,36.75,2000.0,16.0625,7.8809523809523805,8
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,11,1,16,68.9375,47,41.75,61,88.75,2000.0,34.46875,8.562676056338029,9
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,12,1,21,46.2380952380952,17,38,42,55,2000.0,23.1190476190476,8.115151515151519,8
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,13,1,24,31.9583333333333,10,25.75,29.5,35.75,2000.0,15.97916666666665,7.742424242424249,8
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_lusa_n,LUSAZE,11-3,14,1,20,34.35,23.5,19.75,34,43.25,2000.0,17.175,8.440462427745665,8
+new_taxi_park,103,103: Mukono A,F,muka_kayu_n,"KAYUNGA, KIYUNGA",11-3,13,1,1,61,0,61,61,61,4000.0,30.5,7,7
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,11,1,12,52.5833333333333,25,40,53.5,65,4000.0,26.29166666666665,8.33717948717949,8
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,12,1,11,45.8181818181818,42.5,28,38,70.5,4000.0,22.9090909090909,9.450676982591878,9
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,13,1,17,63.9411764705882,24,43,57,67,4000.0,31.9705882352941,7.3195785776997395,7
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,MUKONO WATONI,11-3,14,1,14,45.6428571428571,29.5,29.25,44,58.75,4000.0,22.82142857142855,8.56170212765958,9
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,11,1,5,96.8,50,70,80,120,2000.0,48.4,8.3533333333333335,8
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,12,1,9,83.2222222222222,47,53,80,100,2000.0,41.6111111111111,8.174444444444447,8
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,13,1,4,96.25,21.75,84.25,94,106,2000.0,48.125,7.643867924528302,8
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,KITEBI STAR,11-3,14,1,4,102.5,126,44,111.5,170,2000.0,51.25,9.779411764705882,10
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,11,1,18,58.9444444444444,35.5,39.75,46.5,75.25,"2000, 2500 depending on the stop",29.4722222222222,8.516795865633078,9
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,12,1,10,70.6,54,48.25,60.5,102.25,"2000, 2500 depending on the stop",35.3,9.166748166259168,9
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,13,1,21,66.7142857142857,31,53,70,84,"2000, 2500 depending on the stop",33.35714285714285,8.440476190476192,8
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,LUZIRA,11-3,14,1,11,53.6363636363636,33.5,35,45,68.5,"2000, 2500 depending on the stop",26.8181818181818,8.518911745189122,9
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kisa_n,KISASI KYANJA,11-3,11,1,1,50,0,50,50,50,"ntinda 2000, kungu 2500",25,7.000000000000001,7
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kisa_n,KISASI KYANJA,11-3,14,1,1,162,0,162,162,162,"ntinda 2000, kungu 2500",81,7,7
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,11,1,13,66.3076923076923,40,50,64,90,"ntinda 2000, kungu 2500",33.15384615384615,8.842735042735043,9
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,12,1,9,65.2222222222222,45,34,62,79,"ntinda 2000, kungu 2500",32.6111111111111,8.220815752461323,8
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,13,1,12,56.8333333333333,33.75,40,59,73.75,"ntinda 2000, kungu 2500",28.41666666666665,8.605649717514128,9
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_kung_n,KUNGU,11-3,14,1,11,78.8181818181818,84,39.5,63,123.5,"ntinda 2000, kungu 2500",39.4090909090909,9.532572690467427,10
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,11,1,15,68.4666666666667,45.5,47.5,64,93,"ntinda 2000, kungu 2500",34.23333333333335,8.846594982078852,9
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,12,1,11,60.7272727272727,41.5,33,52,74.5,"ntinda 2000, kungu 2500",30.36363636363635,8.294081757169009,8
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,13,1,15,57.2,36.5,39,69,75.5,"ntinda 2000, kungu 2500",28.6,8.696688741721854,9
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_ntin_n,NTINDA,11-3,14,1,16,62.3125,55.25,27.5,39.5,82.75,"ntinda 2000, kungu 2500",31.15625,8.728851963746225,9
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,11,1,6,118.166666666667,29.75,100,122,129.75,"2500, 3000 depending on the stop",59.0833333333335,7.624919717405248,8
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,12,1,4,129.75,11.75,125,132,136.75,"2500, 3000 depending on the stop",64.875,7.358318098720293,7
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,13,1,11,111.545454545455,68,79.5,105,147.5,"2500, 3000 depending on the stop",55.7727272727275,8.706317411402136,9
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,KIRA,11-3,14,1,8,57.5,34.75,36.25,48.5,71,"2500, 3000 depending on the stop",28.75,8.330985915492958,8
+new_taxi_park,111,111: Ntinda,G,ntin_namu_n,NAMUGONGO,11-3,12,1,1,134,0,134,134,134,"2500, 3000 depending on the stop",67,7,7
+new_taxi_park,111,111: Ntinda,G,ntin_namu_n,NAMUGONGO,11-3,13,1,1,60,0,60,60,60,"2500, 3000 depending on the stop",30,7,7
+new_taxi_park,111,111: Ntinda,G,ntin_namu_n,NAMUGONGO,11-3,14,1,1,89,0,89,89,89,"2500, 3000 depending on the stop",44.5,7,7
+new_taxi_park,111,111: Ntinda,G,ntin_ntin_n,NTINDA,11-3,12,1,1,134,0,134,134,134,"2500, 3000 depending on the stop",67,7,7
+new_taxi_park,111,111: Ntinda,G,ntin_ntin_n,NTINDA,11-3,13,1,1,60,0,60,60,60,"2500, 3000 depending on the stop",30,7,7
+new_taxi_park,111,111: Ntinda,G,ntin_ntin_n,NTINDA,11-3,14,1,1,89,0,89,89,89,"2500, 3000 depending on the stop",44.5,7,7

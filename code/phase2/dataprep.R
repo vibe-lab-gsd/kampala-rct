@@ -19,7 +19,7 @@ phase <- "phase2"
 hwmeans_raw <- read.xlsx(file.path(r'(G:\Shared drives\ugandatransit\uganda_transit_archives\dataoutput\frequency-intervention-otp\guide-form-summary)',
                                    phase, "freq_summary_stats_All.xlsx"))
 
-route_hourly_pre <- hwmeans_raw %>% 
+route_hourly_pre <- hwmeans_raw %>%
   mutate(branch_code = str_extract_all(stage, "^(-*)\\d+(?=:)", simplify = T) %>% as.character()) %>% 
   select(park_name, route_id=route_code, route_name, `Time (start hour)`=hr, `Number of observations`=n,
          `Observed average frequency (oaf)`=mean, iqr_oaf=iqr, p25_oaf=p25, p50_oaf=p50, p75_oaf=p75,
@@ -56,8 +56,8 @@ route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, 
       `Time (start hour)`>=tstart & `Time (start hour)`<tend ~ 1, 
       .default = 0)) %>% 
   select(park_name, branch_code, stage, strata, route_code, route_name, 
-         treatment_window, `Time (start hour)`, in_treatment_window,
-         `Observed average frequency (oaf)`, iqr_oaf, p25_oaf, p50_oaf, p75_oaf) %>% 
+         treatment_window, `Time (start hour)`, in_treatment_window, `Number of observations`,
+         `Observed average frequency (oaf)`, iqr_oaf, p25_oaf, p50_oaf, p75_oaf, stage_fares) %>% 
   filter(in_treatment_window==1) %>% 
   # Calculate hrly payments (by route)
   group_by(route_code) %>% 
@@ -83,5 +83,7 @@ write_csv(stage_strata,
           file.path(git_dir, "data", phase, "stage_strata.csv"))
 
 
+
+# Create route-level dataset for mail merge --------------------------------------------------------
 
 
