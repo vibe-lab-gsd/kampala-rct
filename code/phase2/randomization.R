@@ -13,7 +13,7 @@ set.seed(192333)
 samp <- strata %>% 
   arrange(branch_code) %>% 
   group_by(strata) %>% 
-  slice_sample(prop = 0.5) %>% 
+  slice_sample(prop = 0.5) %>%    # select randomly, but order data by branch code, which uniquely identifies rows, for replicability  
   mutate(treatment = 1)
 
 treatment_groups <- left_join(strata, samp %>% select(branch_code, treatment), 
@@ -22,9 +22,7 @@ treatment_groups <- left_join(strata, samp %>% select(branch_code, treatment),
                            is.na(treatment) ~ "Control")) %>% 
   select(-treatment)
 
-print(treatment_groups, n=30)
 
-
-write_csv(treatment_groups,
-          file.path(git_dir, "data", phase, "treatment_groups.csv"))
-
+# write_csv(treatment_groups,
+#           file.path(git_dir, "data", phase, "treatment_groups.csv"))
+# 
