@@ -34,7 +34,7 @@ stageroster_dir <- file.path(git_dir, "data", phase, "Roster of phase 2 stages (
 route_roster_raw <- read.xlsx(stageroster_dir, sheet = "route roster")   # drive_get(as_id(stageroster_dir)) %>% range_read(sheet = 'route roster') 
 
 route_roster <- route_roster_raw %>%
-  rename(strata=Strata, treatment_window=`FINAL.Treatment.window`) %>% 
+  rename(strata=Strata, treatment_window=`FINAL.Treatment.window`, stage_fares = `Stage.fares`) %>% 
   mutate(treatment_window = treatment_window %>% na_if("NA"),
          branch_code = as.character(branch_code),
          park_name = as.character(park_name),
@@ -45,8 +45,11 @@ route_roster <- route_roster_raw %>%
 
 
 
-# Join treatment window to hrly means dataset 
-route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, treatment_window, tstart, tend), 
+# Join treatment window to hrly means dataset, and Calculate hourly payments: 
+  # 1. target frequency (by route)  = half of avg freq, rounded to nearest -5 number
+  # 2. # of payments (by route) = (p75 headway - target headway) * (14 / p75 headway) 
+  # 3. planned # of payments (by route) = # of payments  rounded to nearest whole number 
+route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, treatment_window, tstart, tend, stage_fares), 
                                     route_hourly_pre, by = c("route_code"="route_id")) %>% 
   mutate(
     in_treatment_window = case_when(
@@ -54,11 +57,16 @@ route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, 
       .default = 0)) %>% 
   select(park_name, branch_code, stage, strata, route_code, route_name, 
          treatment_window, `Time (start hour)`, in_treatment_window,
-         `Observed average frequency (oaf)`, iqr_oaf, p25_oaf, p50_oaf, p75_oaf)
+         `Observed average frequency (oaf)`, iqr_oaf, p25_oaf, p50_oaf, p75_oaf) %>% 
+  filter(in_treatment_window==1) %>% 
+  # Calculate hrly payments (by route)
+  group_by(route_code) %>% 
+  mutate(
+    target_freq = `Observed average frequency (oaf)`/2,
+    calculated_payments = (p75_oaf - target_freq) * (14/p75_oaf),
+    paid_seats = round(calculated_payments)
+  ) 
 
-
-# Calculate hourly payments 
-# Formula 
 
 # Save 
 write_csv(route_hourly, 
