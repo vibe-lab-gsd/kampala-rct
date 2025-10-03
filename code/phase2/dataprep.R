@@ -74,9 +74,9 @@ route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, 
   group_by(route_code) %>%
   mutate(
     target_freq_perhr_raw = `Observed average frequency (oaf)`/2,
-    target_freq_perhr = floor(target_freq_perhr_raw/5)*5,
-    calculated_payments_perhr = (p75_oaf - target_freq_perhr) * (14/p75_oaf),
-    paid_seats_perhr = round(calculated_payments_perhr)
+    target_freq_perhr = floor(target_freq_perhr_raw/5)*5,   # round to nearest 5 
+    calculated_payments_perhr = (p75_oaf - target_freq_perhr) * (14/p75_oaf),   # payments per hr 
+    paid_seats_perhr = round(calculated_payments_perhr)   # rounded payments per hr 
   ) 
 
 # # Calculate target frequency by stage (average across all target freqs by stage)
@@ -132,11 +132,11 @@ write_csv(stage_strata,
 payment_info <- route_hourly %>% 
   # filter to only rows within the treatment window 
   filter(in_treatment_window==1) %>% 
-  group_by(stage) %>% 
   # average frequency per hour, by stage 
+  group_by(stage) %>% 
   mutate(target_freq_stage = floor(mean(target_freq_perhr, na.rm=T)/5)*5) %>% 
-  group_by(park_name, branch_code, stage, strata, route_code, route_name, route_fare, tstart, tend, target_freq_stage) %>% 
   # average frequency per hour, by route 
+  group_by(park_name, branch_code, stage, strata, route_code, route_name, route_fare, tstart, tend, target_freq_stage) %>% 
   summarise(paid_seats = mean(paid_seats_perhr, na.rm=T),
             target_freq_route =  floor(mean(target_freq_perhr, na.rm=T)/5)*5) %>% 
   mutate(payment_value = route_fare * round(paid_seats), 
