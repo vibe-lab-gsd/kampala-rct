@@ -87,8 +87,7 @@ write_csv(stage_strata,
 # Create route-level dataset for mail merge --------------------------------------------------------
 payment_info <- route_hourly %>% 
   group_by(park_name, branch_code, stage, strata, route_code, route_name, route_fare, tstart, tend) %>% 
-  summarise(paid_seats = mean(paid_seats, na.rm=T),
-            target_freq = weighted.mean(target_freq, n=n, na.rm = T)) %>% 
+  summarise(paid_seats = mean(paid_seats, na.rm=T)) %>% 
   mutate(payment_value = route_fare * round(paid_seats),
          stage = str_remove(stage, "^\\d*: "),
          tstart = as.character(tstart) %>% str_c(.,":00"),
