@@ -62,7 +62,8 @@ route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, 
   mutate(
     in_treatment_window = case_when(
       `Time (start hour)`>=tstart & `Time (start hour)`<tend ~ 1, 
-      .default = 0)) %>% 
+      .default = 0),
+    route_fare = as.numeric(route_fare)) %>% 
   select(park_name, branch_code, stage, strata, route_code, route_name, 
          treatment_window, `Time (start hour)`, in_treatment_window, `Number of observations`,
          `Observed average frequency (oaf)`, iqr_oaf, p25_oaf, p50_oaf, p75_oaf, 
@@ -70,13 +71,46 @@ route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, 
   # Drop rows where NO treatment will be assigned 
   filter(!is.na(treatment_window)) %>% 
   # Calculate hrly payments (by route)
-  group_by(route_code) %>% 
+  group_by(route_code) %>%
   mutate(
-    target_freq = `Observed average frequency (oaf)`/2,
-    calculated_payments = (p75_oaf - target_freq) * (14/p75_oaf),
-    paid_seats = round(calculated_payments),
-    route_fare = as.numeric(route_fare)
-  )
+    target_freq_perhr_raw = `Observed average frequency (oaf)`/2,
+    target_freq_perhr = floor(target_freq_perhr_raw/5)*5,
+    calculated_payments_perhr = (p75_oaf - target_freq_perhr) * (14/p75_oaf),
+    paid_seats_perhr = round(calculated_payments_perhr)
+  ) 
+
+# # Calculate target frequency by stage (average across all target freqs by stage)
+# stagelvl <- route_hourly %>% 
+#   filter(in_treatment_window==1) %>% 
+#   group_by(stage) %>% 
+#   summarise(target_freq_stage = floor(mean(target_freq_perhr, na.rm=T)/5)*5)
+# 
+# # Calculate target frequency by route (average across all target freqs for single route)
+# routelvl <- route_hourly %>% 
+#   filter(in_treatment_window==1) %>% 
+#   group_by(route_code) %>% 
+#   summarise(target_freq_route = floor(mean(target_freq_perhr, na.rm=T)/5)*5)
+# 
+# # Bind rows & calculate payment targets 
+# route_hourly <- route_hourly %>% 
+#   left_join(stagelvl) %>% 
+#   left_join(routelvl) %>%
+#   mutate(
+#     # Using HOUR- AND ROUTE-SPECIFIC target headway: 
+#     calculated_payments_perhr = (p75_oaf - target_freq_perhr) * (14/p75_oaf),
+#     paid_seats_perhr = round(calculated_payments_perhr),
+#     
+#     # Using ROUTE-wide target headway (same for every hr in a route): 
+#     calculated_payments_route = (p75_oaf - target_freq_route) * (14/p75_oaf),
+#     paid_seats_route = round(calculated_payments_route),
+#     payment_per_departure_route = paid_seats_route * route_fare, 
+#     
+#     # Using STAGE-wide target headway (same for every hr in a stage): 
+#     calculated_payments_stage = (p75_oaf - target_freq_stage) * (14/p75_oaf),
+#     paid_seats_stage = round(calculated_payments_stage),
+#     payment_per_departure_stage = paid_seats_stage * route_fare 
+#   )
+
 
 # Save 
 write_csv(route_hourly %>% select(-tstart, -tend), 
@@ -96,9 +130,16 @@ write_csv(stage_strata,
 
 # Create route-level dataset for mail merge --------------------------------------------------------
 payment_info <- route_hourly %>% 
-  group_by(park_name, branch_code, stage, strata, route_code, route_name, route_fare, tstart, tend) %>% 
-  summarise(paid_seats = mean(paid_seats, na.rm=T)) %>% 
-  mutate(payment_value = route_fare * round(paid_seats),
+  # filter to only rows within the treatment window 
+  filter(in_treatment_window==1) %>% 
+  group_by(stage) %>% 
+  # average frequency per hour, by stage 
+  mutate(target_freq_stage = floor(mean(target_freq_perhr, na.rm=T)/5)*5) %>% 
+  group_by(park_name, branch_code, stage, strata, route_code, route_name, route_fare, tstart, tend, target_freq_stage) %>% 
+  # average frequency per hour, by route 
+  summarise(paid_seats = mean(paid_seats_perhr, na.rm=T),
+            target_freq_route =  floor(mean(target_freq_perhr, na.rm=T)/5)*5) %>% 
+  mutate(payment_value = route_fare * round(paid_seats), 
          stage = str_remove(stage, "^\\d*: "),
          tstart = as.character(tstart) %>% str_c(.,":00"),
          tend = as.character(tend) %>% str_c(.,":00"))
