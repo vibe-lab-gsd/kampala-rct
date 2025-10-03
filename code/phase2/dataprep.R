@@ -28,13 +28,16 @@ route_hourly_pre <- hwmeans_raw %>%
 
 
 # Route roster dataset
-# stageroster_dir <- "https://docs.google.com/spreadsheets/d/1_cG4STjIpBwmfXpxJtGoye7L1waCCFrMW2PIjK8ljEE/edit?gid=1631865340#gid=1631865340"
-stageroster_dir <- file.path(git_dir, "data", phase, "Roster of phase 2 stages (descriptive survey take 1).xlsx")
+# google drive method: (live doc)
+stageroster_dir <- "https://docs.google.com/spreadsheets/d/1_cG4STjIpBwmfXpxJtGoye7L1waCCFrMW2PIjK8ljEE/edit?gid=1631865340#gid=1631865340"
+route_roster_raw <- drive_get(as_id(stageroster_dir)) %>% range_read(sheet = 'route roster') %>% clean_names()
 
-route_roster_raw <- read.xlsx(stageroster_dir, sheet = "route roster")   # drive_get(as_id(stageroster_dir)) %>% range_read(sheet = 'route roster') 
+# # git method:
+# stageroster_dir <- file.path(git_dir, "data", phase, "Roster of phase 2 stages (descriptive survey take 1).xlsx")
+# route_roster_raw <- read.xlsx(stageroster_dir, sheet = "route roster") %>% clean_names() 
 
 route_roster <- route_roster_raw %>%
-  rename(strata=Strata, treatment_window=`FINAL.Treatment.window`, stage_fares = `Stage.fares`, route_fare = `Route.Fare`) %>% 
+  rename(treatment_window=final_treatment_window) %>% 
   mutate(treatment_window = treatment_window %>% na_if("NA"),
          branch_code = as.character(branch_code),
          park_name = as.character(park_name),
@@ -59,13 +62,15 @@ route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, 
          treatment_window, `Time (start hour)`, in_treatment_window, `Number of observations`,
          `Observed average frequency (oaf)`, iqr_oaf, p25_oaf, p50_oaf, p75_oaf, 
          stage_fares, route_fare, tstart, tend) %>% 
-  filter(in_treatment_window==1) %>% 
+  # Drop rows where NO treatment will be assigned 
+  filter(!is.na(treatment_window)) %>% 
   # Calculate hrly payments (by route)
   group_by(route_code) %>% 
   mutate(
     target_freq = `Observed average frequency (oaf)`/2,
     calculated_payments = (p75_oaf - target_freq) * (14/p75_oaf),
     paid_seats = round(calculated_payments),
+    route_fare = as.numeric(route_fare)
   )
 
 # Save 
