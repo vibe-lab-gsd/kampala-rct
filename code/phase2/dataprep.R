@@ -69,15 +69,33 @@ route_hourly <- tidylog::inner_join(route_roster %>% select(route_code, strata, 
          `Observed average frequency (oaf)`, iqr_oaf, p25_oaf, p50_oaf, p75_oaf, 
          stage_fares, route_fare, tstart, tend) %>% 
   # Drop rows where NO treatment will be assigned 
-  filter(!is.na(treatment_window)) %>% 
+  filter(!is.na(treatment_window)) %>%
+  # Combine routes for relevant stages 
+  mutate(
+    route_code_2 = case_when(
+      route_code %in% c("luga_luga_g", "luga_masa_g", "luga_nase_g") ~ "luga_0001_g", 
+      route_code %in% c("luga_buye_g", "luga_kawu_g", "luga_bujo_g") ~ "luga_0002_g",
+      route_code %in% c("ndej_kana", "ndej_lubu") ~ "ndej_0001", 
+      route_code %in% c("ndej_kibu", "ndej_zant") ~ "ndej_0002",
+      .default = route_code
+    ), 
+    route_name_2 = case_when(
+      route_code_2 == "luga_0001_g" ~ "Lugala / Masanafu / Nasere (MERGED)",
+      route_code_2 == "luga_0002_g" ~ "Buyera-Temangaro / Kawoko / Bujjuko (MERGED)",
+      route_code_2 == "ndej_0001" ~ "Kanaaba / Lubugumu Kakola (MERGED)",
+      route_code_2 == "ndej_0002" ~ "Kibutika / Zanta (MERGED)",
+      .default = route_name
+    ) %>% str_to_title()
+  ) %>% 
   # Calculate hrly payments (by route)
-  group_by(route_code) %>%
+  group_by(route_code_2) %>%
   mutate(
     target_freq_perhr_raw = `Observed average frequency (oaf)`/2,
     target_freq_perhr = floor(target_freq_perhr_raw/5)*5,   # round to nearest 5 
     calculated_payments_perhr = (p75_oaf - target_freq_perhr) * (14/p75_oaf),   # payments per hr 
     paid_seats_perhr = round(calculated_payments_perhr)   # rounded payments per hr 
-  ) 
+  ) %>% 
+  select(park_name, branch_code, stage, route_code, route_name, route_code_2, route_name_2, everything())
 
 # # Calculate target frequency by stage (average across all target freqs by stage)
 # stagelvl <- route_hourly %>% 
@@ -136,13 +154,15 @@ payment_info <- route_hourly %>%
   group_by(stage) %>% 
   mutate(target_freq_stage = floor(mean(target_freq_perhr, na.rm=T)/5)*5) %>% 
   # average frequency per hour, by route 
-  group_by(park_name, branch_code, stage, strata, route_code, route_name, route_fare, tstart, tend, target_freq_stage) %>% 
+  group_by(park_name, branch_code, stage, strata, route_code_2, route_name_2, route_fare, tstart, tend, target_freq_stage) %>% 
   summarise(paid_seats = mean(paid_seats_perhr, na.rm=T),
             target_freq_route =  floor(mean(target_freq_perhr, na.rm=T)/5)*5) %>% 
   mutate(payment_value = route_fare * round(paid_seats), 
          stage = str_remove(stage, "^\\d*: "),
          tstart = as.character(tstart) %>% str_c(.,":00"),
-         tend = as.character(tend) %>% str_c(.,":00"))
+         tend = as.character(tend) %>% str_c(.,":00")) %>% 
+  # drop routes 
+  filter(route_code_2 != "ndej_nyan")
 
 write_csv(payment_info, 
           file.path(git_dir, "data", phase, "payment_info.csv"))
