@@ -28,8 +28,13 @@ route_hourly_pre <- hwmeans_raw %>%
 
 
 # Route roster dataset
+  # Copy from Google Drive to git 
+  stageroster_dir <- "https://docs.google.com/spreadsheets/d/1_cG4STjIpBwmfXpxJtGoye7L1waCCFrMW2PIjK8ljEE/edit?gid=1631865340#gid=1631865340"
+  drive_download(stageroster_dir, path = file.path(git_dir, "data", phase, "Roster of phase 2 stages (descriptive survey take 1).xlsx"),
+                 overwrite = T)
+
+
 # google drive method: (live doc)
-stageroster_dir <- "https://docs.google.com/spreadsheets/d/1_cG4STjIpBwmfXpxJtGoye7L1waCCFrMW2PIjK8ljEE/edit?gid=1631865340#gid=1631865340"
 route_roster_raw <- drive_get(as_id(stageroster_dir)) %>% range_read(sheet = 'route roster') %>% clean_names()
 
 # # git method:
