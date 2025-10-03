@@ -1,0 +1,25 @@
+taxi_park,stage,branch_code,strata,group
+kisenyi_gwanda,12: Entebbe,12,A,Control
+kisenyi_gwanda,15: Ggaba,15,A,Treatment
+kisenyi_gwanda,28: Lugala-Masanafu,28,A,Treatment
+kisenyi_gwanda,30: Kawempe,30,A,Control
+kisenyi_gwanda,14: Nyanama,14,B,Treatment
+kisenyi_gwanda,22: Ssembule / Pastor Tom Mutundwe,22,B,Control
+kisenyi_gwanda,26: Salaama-Munyonyo,26,B,Treatment
+kisenyi_gwanda,27: Rubaga Road-Nateete / Nateete-Rubaga Road,27,B,Control
+kisenyi_gwanda,13: Namasuba,13,C,Treatment
+kisenyi_gwanda,17: Namugongo,17,C,Control
+kisenyi_gwanda,18: Mukono-Lugazi,18,C,Control
+kisenyi_gwanda,19: Kajjansi,19,C,Treatment
+new_taxi_park,105: Bweyogerere,105,D,Control
+old_taxi_park,35: Kawempe / Kawempe Kagoma Kawanda Matugga,35,D,Treatment
+old_taxi_park,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,40,D,Treatment
+old_taxi_park,55: Ndejje,55,D,Control
+new_taxi_park,102: Nateete Wakaliga Busega,102,E,Treatment
+new_taxi_park,98: Gayaza B,98,E,Control
+new_taxi_park,103: Mukono A,103,F,Control
+new_taxi_park,95: Mengo-Rubaga-Kosovo-Lusaze,95,F,Treatment
+new_taxi_park,104: Luzira,104,G,Control
+new_taxi_park,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,109,G,Control
+new_taxi_park,111: Ntinda,111,G,Treatment
+new_taxi_park,96: Ndeeba,96,G,Treatment

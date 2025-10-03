@@ -33,6 +33,6 @@ treatment_groups <- left_join(strata, samp %>% select(branch_code, treatment),
 print(treatment_groups, n=60)
 
 
-# write_csv(treatment_groups,
-#           file.path(git_dir, "data", phase, "treatment_groups.csv"))
-# 
+write_csv(treatment_groups,
+          file.path(git_dir, "data", phase, "treatment_groups.csv"))
+
