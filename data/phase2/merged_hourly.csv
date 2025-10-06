@@ -1,0 +1,115 @@
+park_name,branch_code,stage,strata,route_code_2,route_name_2,Time (start hour),Observed average frequency (oaf),p75_oaf,max_route_fare,target_freq_route,calculated_payments
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,9,40.875,47.5,5000,20,8.105263157894736
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,10,45.48,50,5000,20,8.4
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,11,39.1818181818182,50,5000,20,8.4
+kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,12,32.2424242424242,45,5000,20,7.777777777777778
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,9,48.75,52,4000,20,8.615384615384615
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,10,46.2962962962963,53.5,4000,20,8.766355140186915
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,11,38.6551724137931,46,4000,20,7.91304347826087
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,12,36.5357142857143,43.25,4000,20,7.526011560693641
+kisenyi_gwanda,13,13: Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),11,93.25,102.5,3000,35,9.219512195121952
+kisenyi_gwanda,13,13: Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),12,75.94078947368419,93.5,3000,35,8.759358288770052
+kisenyi_gwanda,13,13: Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),13,47.1701388888889,63.25,3000,35,6.252964426877471
+kisenyi_gwanda,13,13: Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),14,64.91699604743084,77.75,3000,35,7.697749196141479
+kisenyi_gwanda,14,14: Nyanama,B,nyan_0001_g,Nfuufu / Zana (Merged),12,52.6666666666667,61,2500,30,7.114754098360656
+kisenyi_gwanda,14,14: Nyanama,B,nyan_0001_g,Nfuufu / Zana (Merged),13,78.6904761904762,90.125,2500,30,9.339805825242717
+kisenyi_gwanda,14,14: Nyanama,B,nyan_0001_g,Nfuufu / Zana (Merged),14,41,54,2500,30,6.222222222222221
+kisenyi_gwanda,14,14: Nyanama,B,nyan_0001_g,Nfuufu / Zana (Merged),15,51.71923076923075,75,2500,30,8.4
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,Speke Resort,9,53.55,88,2000,25,10.022727272727273
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,Speke Resort,10,31.9444444444444,48.5,2000,25,6.783505154639174
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,Speke Resort,11,68.2941176470588,111,2000,25,10.846846846846846
+kisenyi_gwanda,15,15: Ggaba,A,ggab_spek_g,Speke Resort,12,56.625,92.25,2000,25,10.205962059620596
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,Bukerere,11,73.125,74.75,3000,40,6.508361204013378
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,Bukerere,12,85.8181818181818,101.5,3000,40,8.482758620689655
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,Bukerere,13,69.9,82,3000,40,7.170731707317073
+kisenyi_gwanda,17,17: Namugongo,C,namu_buke_g,Bukerere,14,107.8,150,3000,40,10.266666666666667
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,Kira,11,83.25,101.25,3000,40,8.469135802469134
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,Kira,12,86.1666666666667,104.5,3000,40,8.641148325358852
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,Kira,13,88.8571428571429,97.5,3000,40,8.2564102564102555
+kisenyi_gwanda,17,17: Namugongo,C,namu_kira_g,Kira,14,78.75,92.5,3000,40,7.9459459459459465
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,Namugongo,11,81.8181818181818,80,3000,40,7
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,Namugongo,12,89.1333333333333,105,3000,40,8.666666666666666
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,Namugongo,13,69.4545454545455,86,3000,40,7.488372093023257
+kisenyi_gwanda,17,17: Namugongo,C,namu_namu_g,Namugongo,14,83,88.75,3000,40,7.690140845070423
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,Mukono-Lugazi,11,91.4,108.5,7000,40,8.838709677419354
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,Mukono-Lugazi,12,73.1,93.5,7000,40,8.010695187165775
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,Mukono-Lugazi,13,82.2631578947368,105,7000,40,8.666666666666666
+kisenyi_gwanda,18,18: Mukono-Lugazi,C,muko_muko_g,Mukono-Lugazi,14,83.4615384615385,94,7000,40,8.042553191489361
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,Kajjansi,11,60.7142857142857,72,4000,25,9.13888888888889
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,Kajjansi,12,51.9655172413793,60,4000,25,8.166666666666666
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,Kajjansi,13,47.4814814814815,60.5,4000,25,8.214876033057852
+kisenyi_gwanda,19,19: Kajjansi,C,kajj_kajj_g,Kajjansi,14,41.6129032258064,55.5,4000,25,7.693693693693693
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_movi_g,Movit,16,46.2,50,2000,25,7.000000000000001
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_movi_g,Movit,17,51.4210526315789,58,2000,25,7.9655172413793105
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,Pastor Tom,14,64.0714285714286,86,2000,30,9.116279069767442
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,Pastor Tom,15,57.9230769230769,82,2000,30,8.878048780487806
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,Pastor Tom,16,50.1875,60.25,2000,30,7.029045643153527
+kisenyi_gwanda,22,22: Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,Pastor Tom,17,56.9523809523809,75,2000,30,8.4
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,Munyonyo Round About,12,70.8421052631579,84,2000,30,9
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,Munyonyo Round About,13,64.2380952380952,84,2000,30,9
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,Munyonyo Round About,14,61.8095238095238,80,2000,30,8.75
+kisenyi_gwanda,26,26: Salaama-Munyonyo,B,sala_muny_g,Munyonyo Round About,15,59.2,70,2000,30,8
+kisenyi_gwanda,27,27: Rubaga Road-Nateete / Nateete-Rubaga Road,B,ruba_nate_g,Nateete Street Lights,12,59.5,74.25,2000,25,9.286195286195285
+kisenyi_gwanda,27,27: Rubaga Road-Nateete / Nateete-Rubaga Road,B,ruba_nate_g,Nateete Street Lights,13,48.9166666666667,57.75,2000,25,7.9393939393939394
+kisenyi_gwanda,27,27: Rubaga Road-Nateete / Nateete-Rubaga Road,B,ruba_nate_g,Nateete Street Lights,14,33,40.75,2000,25,5.411042944785276
+kisenyi_gwanda,27,27: Rubaga Road-Nateete / Nateete-Rubaga Road,B,ruba_nate_g,Nateete Street Lights,15,38.8,39,2000,25,5.0256410256410255
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0001_g,Lugala / Masanafu / Nasere (Merged),9,43.551282051282065,59.583333333333336,2000,20,9.300699300699302
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0001_g,Lugala / Masanafu / Nasere (Merged),10,45.4102564102564,62,2000,20,9.483870967741936
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0001_g,Lugala / Masanafu / Nasere (Merged),11,30.23333333333333,40,2000,20,7
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0001_g,Lugala / Masanafu / Nasere (Merged),12,29.271284271284266,40,2000,20,7
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),9,46.347619047619034,62.5,2000,20,9.52
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),10,40.5,51.25,2000,20,8.536585365853659
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),11,42.31054131054133,56.166666666666664,2000,20,9.014836795252226
+kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),12,45.433621933621936,60.833333333333336,2000,20,9.397260273972604
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,9,56.3,64.25,2500,25,8.552529182879377
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,10,51.0740740740741,64,2500,25,8.53125
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,11,42.6428571428571,51,2500,25,7.137254901960785
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,12,41.8,54,2500,25,7.518518518518518
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,10,44.0833333333333,52.5,2000,20,8.666666666666666
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,11,39.7407407407407,52,2000,20,8.615384615384615
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,12,43.0666666666667,42.25,2000,20,7.372781065088758
+new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,13,31.8636363636364,40.75,2000,20,7.1288343558282214
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,Mukono Watoni,11,57.7333333333333,66,4000,30,7.636363636363637
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,Mukono Watoni,12,51.25,70.5,4000,30,8.042553191489363
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,Mukono Watoni,13,64.1428571428571,67,4000,30,7.731343283582089
+new_taxi_park,103,103: Mukono A,F,muka_muko_n,Mukono Watoni,14,52.7368421052632,66,4000,30,7.636363636363637
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,Luzira,11,60.24,80,2500,30,8.75
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,Luzira,12,66.7692307692308,94,2500,30,9.53191489361702
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,Luzira,13,67.9230769230769,87.75,2500,30,9.213675213675213
+new_taxi_park,104,104: Luzira,G,luzi_luzi_n,Luzira,14,53.6875,67.75,2500,30,7.800738007380074
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,9,48.875,65.5,3000,35,6.519083969465648
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,10,72.5882352941177,105,3000,35,9.333333333333334
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,11,70.4444444444444,92,3000,35,8.673913043478262
+new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,12,85.3125,115.5,3000,35,9.757575757575758
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),11,70.15,95.875,3000,35,8.889178617992176
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),12,58.7619047619048,70.125,3000,35,7.0124777183600715
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),13,58.225328947368396,74.625,3000,35,7.433835845896147
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),14,74.89285714285715,126.75,3000,35,10.134122287968442
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,Kira,11,110.125,129.25,3000,45,9.125725338491296
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,Kira,12,104.833333333333,133,3000,45,9.263157894736842
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,Kira,13,104,135,3000,45,9.333333333333334
+new_taxi_park,111,111: Ntinda,G,ntin_kira_n,Kira,14,59.8,83,3000,45,6.409638554216867
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_0001_n,Bugolo Bridge / Lusaze (Merged),11,65.0952380952381,74,2000,25,9.27027027027027
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_0001_n,Bugolo Bridge / Lusaze (Merged),12,50.6785714285714,64.25,2000,25,8.552529182879377
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_0001_n,Bugolo Bridge / Lusaze (Merged),13,36.0588235294118,43,2000,25,5.86046511627907
+new_taxi_park,95,95: Mengo-Rubaga-Kosovo-Lusaze,F,meng_0001_n,Bugolo Bridge / Lusaze (Merged),14,34.9285714285714,44.75,2000,25,6.17877094972067
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,Kitebi Star,11,84.5,110,2000,45,8.272727272727272
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,Kitebi Star,12,84.7,99.5,2000,45,7.668341708542713
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,Kitebi Star,13,108.2,115,2000,45,8.521739130434783
+new_taxi_park,96,96: Ndeeba,G,ndee_star_n,Kitebi Star,14,102.5,170,2000,45,10.294117647058824
+new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,Gayaza,9,43.5333333333333,54,3000,20,8.814814814814815
+new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,Gayaza,10,33.28125,47,3000,20,8.042553191489361
+new_taxi_park,98,98: Gayaza B,E,gaya_gaya_n,Gayaza,11,30.6428571428571,39,3000,20,6.82051282051282
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,Kawanda Kilinyabigo,11,50.5833333333333,72.5,3000,20,10.137931034482758
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,Kawanda Kilinyabigo,12,34.5581395348837,48,3000,20,8.166666666666668
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,Kawanda Kilinyabigo,13,29.5675675675676,40,3000,20,7
+old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,Kawanda Kilinyabigo,14,33.7027027027027,44,3000,20,7.636363636363637
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,Tula Kilokole,10,36.8333333333333,55.5,2000,20,8.954954954954955
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,Tula Kilokole,11,48.6521739130435,53,2000,20,8.716981132075471
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,Tula Kilokole,12,32.8787878787879,44,2000,20,7.636363636363637
+old_taxi_park,40,40: Kalerwe / Kalerwe-Ttula-Kidokolo-Kizingiza,D,kale_tula,Tula Kilokole,13,34.1282051282051,47,2000,20,8.042553191489361
+old_taxi_park,55,55: Ndejje,D,ndej_0001,Kanaaba / Lubugumu Kakola (Merged),9,33.4476127320955,40,3500,15,8.75
+old_taxi_park,55,55: Ndejje,D,ndej_0001,Kanaaba / Lubugumu Kakola (Merged),10,25.975073313783,41.25,3500,15,8.90909090909091
+old_taxi_park,55,55: Ndejje,D,ndej_0001,Kanaaba / Lubugumu Kakola (Merged),11,24.63695652173915,25.5,3500,15,5.764705882352942
+old_taxi_park,55,55: Ndejje,D,ndej_0002,Kibutika / Zanta (Merged),10,26,34.5,3000,20,5.884057971014493
+old_taxi_park,55,55: Ndejje,D,ndej_0002,Kibutika / Zanta (Merged),11,56.7277777777778,64.375,3000,20,9.650485436893204
