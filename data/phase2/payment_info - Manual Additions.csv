@@ -3,7 +3,7 @@ kisenyi_gwanda,12,Entebbe,A,ente_expr_g,Entebbe Express,9:00,13:00,20,5000,8,400
 kisenyi_gwanda,12,Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,9:00,13:00,20,4000,8,32000
 kisenyi_gwanda,13,Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),11:00,15:00,35,3000,8,24000
 kisenyi_gwanda,14,Nyanama,B,nyan_0001_g,Nfuufu / Zana (Merged),12:00,16:00,30,2500,8,20000
-kisenyi_gwanda,15,Ggaba,A,ggab_spek_g,Speke Resort,9:00,13:00,25,2000,9,18000
+kisenyi_gwanda,15,Ggaba,A,ggab_spek_g,Speke Resort,9:00,13:00,25,2000,10,20000
 kisenyi_gwanda,17,Namugongo,C,namu_buke_g,Bukerere,11:00,15:00,40,3000,8,24000
 kisenyi_gwanda,17,Namugongo,C,namu_kira_g,Kira,11:00,15:00,40,3000,8,24000
 kisenyi_gwanda,17,Namugongo,C,namu_namu_g,Namugongo,11:00,15:00,40,3000,8,24000
@@ -12,8 +12,9 @@ kisenyi_gwanda,19,Kajjansi,C,kajj_kajj_g,Kajjansi,11:00,15:00,25,4000,8,32000
 kisenyi_gwanda,22,Ssembule / Pastor Tom Mutundwe,B,ssem_movi_g,Movit,16:00,18:00,25,2000,7,14000
 kisenyi_gwanda,22,Ssembule / Pastor Tom Mutundwe,B,ssem_past_g,Pastor Tom,14:00,18:00,30,2000,8,16000
 kisenyi_gwanda,26,Salaama-Munyonyo,B,sala_muny_g,Munyonyo Round About,12:00,16:00,30,2000,9,18000
-kisenyi_gwanda,27,Rubaga Road-Nateete / Nateete-Rubaga Road,B,ruba_nate_g,Nateete Street Lights,12:00,16:00,25,2000,7,14000
-kisenyi_gwanda,28,Lugala-Masanafu,A,luga_0001_g,Lugala / Masanafu / Nasere (Merged),9:00,13:00,20,2000,8,16000
+kisenyi_gwanda,27,Rubaga Road-Nateete / Nateete-Rubaga Road,B,ruba_nate_g,Nateete Street Lights,12:00,14:00,25,2000,9,18000
+kisenyi_gwanda,27,Rubaga Road-Nateete / Nateete-Rubaga Road,B,ruba_nate_g,Nateete Street Lights,14:00,16:00,,,7,14000
+kisenyi_gwanda,28,Lugala-Masanafu,A,luga_0001_g,Lugala / Masanafu / Nasere (Merged),9:00,13:00,20,2000,9,18000
 kisenyi_gwanda,28,Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),9:00,13:00,20,2000,9,18000
 kisenyi_gwanda,30,Kawempe,A,kawe_matu_g,Matugga,9:00,13:00,25,3000,8,24000
 new_taxi_park,102,Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,10:00,14:00,20,2000,8,16000
@@ -22,7 +23,8 @@ new_taxi_park,104,Luzira,G,luzi_luzi_n,Luzira,11:00,15:00,30,2500,9,22500
 new_taxi_park,105,Bweyogerere,D,bwey_bwey_n,Bweyogerere,9:00,13:00,35,3000,9,27000
 new_taxi_park,109,Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),11:00,15:00,35,3000,8,24000
 new_taxi_park,111,Ntinda,G,ntin_kira_n,Kira,11:00,15:00,45,3000,9,27000
-new_taxi_park,95,Mengo-Rubaga-Kosovo-Lusaze,F,meng_0001_n,Bugolo Bridge / Lusaze (Merged),11:00,15:00,25,2000,7,14000
+new_taxi_park,95,Mengo-Rubaga-Kosovo-Lusaze,F,meng_0001_n,Bugolo Bridge / Lusaze (Merged),11:00,13:00,25,2000,9,18000
+new_taxi_park,95,Mengo-Rubaga-Kosovo-Lusaze,F,meng_0001_n,Bugolo Bridge / Lusaze (Merged),13:00,15:00,,,6,12000
 new_taxi_park,96,Ndeeba,G,ndee_star_n,Kitebi Star,11:00,15:00,45,2000,9,18000
 new_taxi_park,98,Gayaza B,E,gaya_gaya_n,Gayaza,8:00,12:00,20,3000,8,24000
 old_taxi_park,35,Kawempe / Kawempe Kagoma Kawanda Matugga,D,kawe_kawa,Kawanda Kilinyabigo,11:00,15:00,20,3000,8,24000
