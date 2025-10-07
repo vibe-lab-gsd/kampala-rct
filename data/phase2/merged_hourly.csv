@@ -81,10 +81,10 @@ new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,9,48.875,65.5,3000,
 new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,10,72.5882352941177,105,3000,35,9.333333333333334
 new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,11,70.4444444444444,92,3000,35,8.673913043478262
 new_taxi_park,105,105: Bweyogerere,D,bwey_bwey_n,Bweyogerere,12,85.3125,115.5,3000,35,9.757575757575758
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),11,70.15,95.875,3000,35,8.889178617992176
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),12,58.7619047619048,70.125,3000,35,7.0124777183600715
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),13,58.225328947368396,74.625,3000,35,7.433835845896147
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),14,74.89285714285715,126.75,3000,35,10.134122287968442
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),11,70.15,95.875,2500,35,8.889178617992176
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),12,58.7619047619048,70.125,2500,35,7.0124777183600715
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),13,58.225328947368396,74.625,2500,35,7.433835845896147
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,G,kamw_0001_n,Kungu / Ntinda (Merged),14,74.89285714285715,126.75,2500,35,10.134122287968442
 new_taxi_park,111,111: Ntinda,G,ntin_kira_n,Kira,11,110.125,129.25,3000,45,9.125725338491296
 new_taxi_park,111,111: Ntinda,G,ntin_kira_n,Kira,12,104.833333333333,133,3000,45,9.263157894736842
 new_taxi_park,111,111: Ntinda,G,ntin_kira_n,Kira,13,104,135,3000,45,9.333333333333334

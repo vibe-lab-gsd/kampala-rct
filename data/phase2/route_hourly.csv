@@ -134,14 +134,14 @@ new_taxi_park,105,105: Bweyogerere,bwey_bwey_n,BWEYOGERERE,bwey_bwey_n,Bweyogere
 new_taxi_park,105,105: Bweyogerere,bwey_bwey_n,BWEYOGERERE,bwey_bwey_n,Bweyogerere,D,Yes,9-1,10,1,17,72.5882352941177,75,30,80,105,3000
 new_taxi_park,105,105: Bweyogerere,bwey_bwey_n,BWEYOGERERE,bwey_bwey_n,Bweyogerere,D,Yes,9-1,11,1,9,70.4444444444444,44,48,50,92,3000
 new_taxi_park,105,105: Bweyogerere,bwey_bwey_n,BWEYOGERERE,bwey_bwey_n,Bweyogerere,D,Yes,9-1,12,1,16,85.3125,85.75,29.75,94.5,115.5,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,11,1,18,69.5,44,50.5,65,94.5,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,12,1,12,60.1666666666667,39.25,33,53.5,72.25,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,13,1,16,58.1875,33.75,40,63.5,73.75,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,14,1,16,81.5,95,37.5,66.5,132.5,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,11,1,20,70.8,48.5,48.75,65,97.25,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,12,1,14,57.3571428571429,35.5,32.5,51,68,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,13,1,19,58.2631578947368,36.5,39,64,75.5,3000
-new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,14,1,21,68.2857142857143,91,30,40,121,3000
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,11,1,18,69.5,44,50.5,65,94.5,2500
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,12,1,12,60.1666666666667,39.25,33,53.5,72.25,2500
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,13,1,16,58.1875,33.75,40,63.5,73.75,2500
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_kung_n,KUNGU,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_ntin_n),11-3,14,1,16,81.5,95,37.5,66.5,132.5,2500
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,11,1,20,70.8,48.5,48.75,65,97.25,2000
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,12,1,14,57.3571428571429,35.5,32.5,51,68,2000
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,13,1,19,58.2631578947368,36.5,39,64,75.5,2000
+new_taxi_park,109,109: Kamwokya-Ntinda-Bukoto-Kisaasi-Kulambiro,kamw_ntin_n,NTINDA,kamw_0001_n,Kungu / Ntinda (Merged),G,Yes (only if merged with kamw_kung_n),11-3,14,1,21,68.2857142857143,91,30,40,121,2000
 new_taxi_park,111,111: Ntinda,ntin_kira_n,KIRA,ntin_kira_n,Kira,G,Yes,11-3,11,1,8,110.125,36.75,92.5,117.5,129.25,3000
 new_taxi_park,111,111: Ntinda,ntin_kira_n,KIRA,ntin_kira_n,Kira,G,Yes,11-3,12,1,6,104.833333333333,38,95,120,133,3000
 new_taxi_park,111,111: Ntinda,ntin_kira_n,KIRA,ntin_kira_n,Kira,G,Yes,11-3,13,1,16,104,71.25,63.75,105,135,3000
