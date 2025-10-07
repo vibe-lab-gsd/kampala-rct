@@ -122,7 +122,8 @@ write_csv(route_hourly %>%  select(-tstart, -tend), file.path(git_dir, "data", p
 write_csv(merged_hourly %>% ungroup() %>% select(-tstart, -tend), 
           file.path(git_dir, "data", phase, "merged_hourly.csv"))
 
- 
+
+
 
 # Create stage_strata dataset --------------------------------------------------------
 stage_strata <- route_roster %>% 

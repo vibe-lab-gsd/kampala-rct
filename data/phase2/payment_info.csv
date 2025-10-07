@@ -1,6 +1,6 @@
 park_name,branch_code,stage,strata,route_code_2,route_name_2,tstart,tend,target_freq_route,max_route_fare,paid_seats,payment_value
 kisenyi_gwanda,12,Entebbe,A,ente_expr_g,Entebbe Express,9:00,13:00,20,5000,8,40000
-kisenyi_gwanda,12,Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,9:00,13:00,20,4000,8,32000
+kisenyi_gwanda,12,Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,9:00,13:00,20,5000,8,40000
 kisenyi_gwanda,13,Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),11:00,15:00,35,3000,8,24000
 kisenyi_gwanda,14,Nyanama,B,nyan_0001_g,Nfuufu / Zana (Merged),12:00,16:00,30,2500,8,20000
 kisenyi_gwanda,15,Ggaba,A,ggab_spek_g,Speke Resort,9:00,13:00,25,2000,9,18000

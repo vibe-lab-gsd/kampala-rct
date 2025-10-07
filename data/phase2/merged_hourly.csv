@@ -3,10 +3,10 @@ kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,9,40.875,47.5,5000,2
 kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,10,45.48,50,5000,20,8.4
 kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,11,39.1818181818182,50,5000,20,8.4
 kisenyi_gwanda,12,12: Entebbe,A,ente_expr_g,Entebbe Express,12,32.2424242424242,45,5000,20,7.777777777777778
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,9,48.75,52,4000,20,8.615384615384615
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,10,46.2962962962963,53.5,4000,20,8.766355140186915
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,11,38.6551724137931,46,4000,20,7.91304347826087
-kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,12,36.5357142857143,43.25,4000,20,7.526011560693641
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,9,48.75,52,5000,20,8.615384615384615
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,10,46.2962962962963,53.5,5000,20,8.766355140186915
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,11,38.6551724137931,46,5000,20,7.91304347826087
+kisenyi_gwanda,12,12: Entebbe,A,ente_luka_g,Entebbe Ku Lukadde,12,36.5357142857143,43.25,5000,20,7.526011560693641
 kisenyi_gwanda,13,13: Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),11,93.25,102.5,3000,35,9.219512195121952
 kisenyi_gwanda,13,13: Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),12,75.94078947368419,93.5,3000,35,8.759358288770052
 kisenyi_gwanda,13,13: Namasuba,C,nama_0001_g,Lubugumu / Zzana (Merged),13,47.1701388888889,63.25,3000,35,6.252964426877471
@@ -61,10 +61,10 @@ kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / 
 kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),10,40.5,51.25,2000,20,8.536585365853659
 kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),11,42.31054131054133,56.166666666666664,2000,20,9.014836795252226
 kisenyi_gwanda,28,28: Lugala-Masanafu,A,luga_0002_g,Buyera-Temangaro / Kawoko / Bujjuko (Merged),12,45.433621933621936,60.833333333333336,2000,20,9.397260273972604
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,9,56.3,64.25,2500,25,8.552529182879377
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,10,51.0740740740741,64,2500,25,8.53125
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,11,42.6428571428571,51,2500,25,7.137254901960785
-kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,12,41.8,54,2500,25,7.518518518518518
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,9,56.3,64.25,3000,25,8.552529182879377
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,10,51.0740740740741,64,3000,25,8.53125
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,11,42.6428571428571,51,3000,25,7.137254901960785
+kisenyi_gwanda,30,30: Kawempe,A,kawe_matu_g,Matugga,12,41.8,54,3000,25,7.518518518518518
 new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,10,44.0833333333333,52.5,2000,20,8.666666666666666
 new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,11,39.7407407407407,52,2000,20,8.615384615384615
 new_taxi_park,102,102: Nateete Wakaliga Busega,E,waka_buse_n,Busega Round About,12,43.0666666666667,42.25,2000,20,7.372781065088758

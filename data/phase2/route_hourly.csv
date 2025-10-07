@@ -3,10 +3,10 @@ kisenyi_gwanda,12,12: Entebbe,ente_expr_g,ENTEBBE EXPRESS,ente_expr_g,Entebbe Ex
 kisenyi_gwanda,12,12: Entebbe,ente_expr_g,ENTEBBE EXPRESS,ente_expr_g,Entebbe Express,A,Yes,9-1,10,1,25,45.48,18,32,42,50,5000
 kisenyi_gwanda,12,12: Entebbe,ente_expr_g,ENTEBBE EXPRESS,ente_expr_g,Entebbe Express,A,Yes,9-1,11,1,33,39.1818181818182,25,25,36,50,5000
 kisenyi_gwanda,12,12: Entebbe,ente_expr_g,ENTEBBE EXPRESS,ente_expr_g,Entebbe Express,A,Yes,9-1,12,1,33,32.2424242424242,24,21,33,45,5000
-kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,9,1,16,48.75,17.75,34.25,40,52,4000
-kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,10,1,27,46.2962962962963,28,25.5,41,53.5,4000
-kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,11,1,29,38.6551724137931,13,33,39,46,4000
-kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,12,1,28,36.5357142857143,19.5,23.75,34.5,43.25,4000
+kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,9,1,16,48.75,17.75,34.25,40,52,5000
+kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,10,1,27,46.2962962962963,28,25.5,41,53.5,5000
+kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,11,1,29,38.6551724137931,13,33,39,46,5000
+kisenyi_gwanda,12,12: Entebbe,ente_luka_g,ENTEBBE KU LUKADDE,ente_luka_g,Entebbe Ku Lukadde,A,Yes,9-1,12,1,28,36.5357142857143,19.5,23.75,34.5,43.25,5000
 kisenyi_gwanda,13,13: Namasuba,nama_lubu_g,LUBUGUMU,nama_0001_g,Lubugumu / Zzana (Merged),C,Yes (only if merged with nama_zzan_g),11-3,11,1,8,93.25,28,74.5,84,102.5,3000
 kisenyi_gwanda,13,13: Namasuba,nama_lubu_g,LUBUGUMU,nama_0001_g,Lubugumu / Zzana (Merged),C,Yes (only if merged with nama_zzan_g),11-3,12,1,20,76.25,53.5,39.5,77.5,93,3000
 kisenyi_gwanda,13,13: Namasuba,nama_lubu_g,LUBUGUMU,nama_0001_g,Lubugumu / Zzana (Merged),C,Yes (only if merged with nama_zzan_g),11-3,13,1,18,46.2777777777778,26.5,35.75,47.5,62.25,3000
@@ -85,10 +85,10 @@ kisenyi_gwanda,28,28: Lugala-Masanafu,luga_nase_g,NASERE,luga_0001_g,Lugala / Ma
 kisenyi_gwanda,28,28: Lugala-Masanafu,luga_nase_g,NASERE,luga_0001_g,Lugala / Masanafu / Nasere (Merged),A,"Yes (only if merged with luga_luga_g, luga_masa_g)",9-1,10,1,23,45,30,31.5,45,61.5,2000
 kisenyi_gwanda,28,28: Lugala-Masanafu,luga_nase_g,NASERE,luga_0001_g,Lugala / Masanafu / Nasere (Merged),A,"Yes (only if merged with luga_luga_g, luga_masa_g)",9-1,11,1,40,31.4,20,20,30,40,2000
 kisenyi_gwanda,28,28: Lugala-Masanafu,luga_nase_g,NASERE,luga_0001_g,Lugala / Masanafu / Nasere (Merged),A,"Yes (only if merged with luga_luga_g, luga_masa_g)",9-1,12,1,33,29.2424242424242,20,20,30,40,2000
-kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,9,1,20,56.3,28.25,36,51,64.25,2500
-kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,10,1,27,51.0740740740741,36.5,27.5,43,64,2500
-kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,11,1,28,42.6428571428571,17.75,33.25,41,51,2500
-kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,12,1,30,41.8,24.75,29.25,43.5,54,2500
+kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,9,1,20,56.3,28.25,36,51,64.25,3000
+kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,10,1,27,51.0740740740741,36.5,27.5,43,64,3000
+kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,11,1,28,42.6428571428571,17.75,33.25,41,51,3000
+kisenyi_gwanda,30,30: Kawempe,kawe_matu_g,MATUGGA,kawe_matu_g,Matugga,A,Yes,9-1,12,1,30,41.8,24.75,29.25,43.5,54,3000
 old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,kawe_kawa,KAWANDA KILINYABIGO,kawe_kawa,Kawanda Kilinyabigo,D,Yes,11-3,11,1,24,50.5833333333333,43.75,28.75,45,72.5,3000
 old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,kawe_kawa,KAWANDA KILINYABIGO,kawe_kawa,Kawanda Kilinyabigo,D,Yes,11-3,12,1,43,34.5581395348837,39,9,31,48,3000
 old_taxi_park,35,35: Kawempe / Kawempe Kagoma Kawanda Matugga,kawe_kawa,KAWANDA KILINYABIGO,kawe_kawa,Kawanda Kilinyabigo,D,Yes,11-3,13,1,37,29.5675675675676,30,10,28,40,3000
