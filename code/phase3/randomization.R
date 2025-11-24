@@ -4,7 +4,7 @@ library(googledrive)
 library(googlesheets4)
 
 git_dir <- "C:/Users/Gray Collins/Documents/GitHub/kampala-rct"
-phase <- "phase2"
+phase <- "phase3"
 
 strata <- read_csv(file.path(git_dir, "data", phase, "stage_strata.csv"))
 
