@@ -6,24 +6,15 @@ library(googledrive)
 library(googlesheets4)
 
 
-# NOTE FOR SUBSEQUENT PHASES: 
-# Before running this code, copy the stage roster into the git repo. The stage roster
-# should contain the strata and treatment window start & end time for all observations.
-
 # Directory ------------------------------------------------------------------
 git_dir <- "C:/Users/Gray Collins/Documents/GitHub/kampala-rct"
 drive_path <- "G:/Shared drives/ugandatransit/uganda_transit_archives"
 phase <- "phase3"
 
 
-# # Guide form data ---------------------------------------------------------------
-# load(file.path(drive_path, "dataprocessed/frequency-intervention-otp/guide-form", phase, "guideformdatasets_clean.RDS"), verbose = TRUE)
-# rm(guideform)
-
-
 
 # Create route_hourly dataset ------------------------------------------------------------------
-# Created in guideform_descriptivestats_hfc.Rmd 
+# freq_summary_stats_All.xlsx = calculations run in guideform_descriptivestats_hfc.Rmd 
   # G:\Shared drives\ugandatransit\uganda_transit_archives\dataoutput\frequency-intervention-otp\guide-form-summary\phase3
 
 hwmeans_raw <- read.xlsx(file.path(r'(G:\Shared drives\ugandatransit\uganda_transit_archives\dataoutput\frequency-intervention-otp\guide-form-summary)',
