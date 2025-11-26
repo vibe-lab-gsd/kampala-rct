@@ -44,25 +44,25 @@ stage_roster <- read.xlsx(stageroster_dir, sheet = "stage roster") %>% clean_nam
   filter(queue_code!="-15B") %>% select(-c(queue_code, queue))
 
 route_roster <- read.xlsx(stageroster_dir, sheet = "phase 3 route list") %>% clean_names() %>%
-  rename(treatment_window = possible_window, treat_route = final_ish_decision_for_stage_meetings,
+  rename(treat_route = final_ish_decision_for_stage_meetings,
          route_fare = fares, route_name = routes) %>% 
   filter(!is.na(route_code)) %>% 
   mutate(route_code = tolower(route_code) %>% str_replace_all("-", "_"), 
-         treatment_window = treatment_window %>% na_if("NA"),
-         across(c(branch_code, queue_code, stage_code), ~as.character(.x)),
-         window_start = str_split_i(treatment_window, "-", 1) %>% str_remove_all("am") %>% str_remove_all("pm"),
-         window_end = str_split_i(treatment_window, "-", 2) %>% str_remove_all("am") %>% str_remove_all("pm"),
-         tstart = ifelse(as.numeric(window_start)<=6, as.numeric(window_start)+12, as.numeric(window_start)),
-         tend = ifelse(as.numeric(window_end)<=6, as.numeric(window_end)+12, as.numeric(window_end))
+         across(c(branch_code, queue_code, stage_code), ~as.character(.x))
          # route_code_2 = ifelse(is.na(route_code_2), route_code, route_code_2), 
          # route_name_2 = ifelse(is.na(route_name_2), route_name, route_name_2) %>% str_to_title()
          ) %>%
   # Filter out routes which are NOT ELIGIBLE for treatment
   filter(treat_route=="include") %>% 
-  # Add strata & park/stage names from the stage roster tab 
+  # Add TIME WINDOW, strata & park/stage names from the stage roster tab 
   select(-c(stage, taxi_park)) %>% 
-  tidylog::left_join(stage_roster %>% distinct(taxi_park, branch_code, stage, strata), 
+  tidylog::left_join(stage_roster %>% distinct(taxi_park, branch_code, stage, strata, final_time_window), 
                      by='branch_code') %>% 
+  mutate(treatment_window = final_time_window %>% na_if("NA"),
+         window_start = str_split_i(treatment_window, "-", 1) %>% str_remove_all("am") %>% str_remove_all("pm"),
+         window_end = str_split_i(treatment_window, "-", 2) %>% str_remove_all("am") %>% str_remove_all("pm"),
+         tstart = ifelse(as.numeric(window_start)<=6, as.numeric(window_start)+12, as.numeric(window_start)),
+         tend = ifelse(as.numeric(window_end)<=6, as.numeric(window_end)+12, as.numeric(window_end))) %>% 
   select(park_name=taxi_park, branch_code, stage_code, stage, strata, treat_route, 
          route_name, route_code, # route_name_2, route_code_2, 
          census_route_id, route_length, route_fare,
