@@ -17,7 +17,7 @@ phase <- "phase3"
 # freq_summary_stats_All.xlsx = calculations run in guideform_descriptivestats_hfc.Rmd 
   # G:\Shared drives\ugandatransit\uganda_transit_archives\dataoutput\frequency-intervention-otp\guide-form-summary\phase3
 
-hwmeans_raw <- read.xlsx(file.path(r'(G:\Shared drives\ugandatransit\uganda_transit_archives\dataoutput\frequency-intervention-otp\guide-form-summary)',
+hwmeans_raw <- read.xlsx(file.path(drive_path, r'(\dataoutput\frequency-intervention-otp\guide-form-summary)',
                                    phase, "freq_summary_stats_All.xlsx"))
 
 route_hourly_pre <- hwmeans_raw %>%
@@ -39,7 +39,9 @@ route_hourly_pre <- hwmeans_raw %>%
 stageroster_dir <- file.path(git_dir, "data", phase, "stage_intervention_sample_phase3.xlsx")
 
 stage_roster <- read.xlsx(stageroster_dir, sheet = "stage roster") %>% clean_names() %>% 
-  filter(status=="Working with")
+  filter(status=="Working with") %>% 
+  # Fix double queue for entebbe 
+  filter(queue_code!="-15B") %>% select(-c(queue_code, queue))
 
 route_roster <- read.xlsx(stageroster_dir, sheet = "phase 3 route list") %>% clean_names() %>%
   rename(treatment_window = possible_window, treat_route = final_ish_decision_for_stage_meetings,
