@@ -1,6 +1,6 @@
 park_name,branch_code,stage,strata,route_code,route_name,tstart,tend,target_freq_route,max_route_fare,paid_seats,payment_value
 Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,9:00,13:00,25,4000,8,32000
-Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,14:00,18:00,15,5000,9,45000
+Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,14:00,18:00,20,5000,8,40000
 Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,14:00,18:00,25,5000,8,40000
 Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,14:00,18:00,35,6000,8,48000
 Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,14:00,18:00,40,6000,8,48000
