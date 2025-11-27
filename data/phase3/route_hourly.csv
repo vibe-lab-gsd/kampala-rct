@@ -1,107 +1,103 @@
 park_name,branch_code,stage,route_code,route_name,strata,treat_route,treatment_window,Time (start hour),in_treatment_window,Number of observations,Observed average frequency (oaf),iqr_oaf,p25_oaf,p50_oaf,p75_oaf,route_fare
-Valley Park,7,Nateete Kyengera Nsangi Maya,nate_nate_vall,Maya (via Nateete Busega),E,include,10am-2pm,10,1,1,45,0,45,45,45,4000.0
+Valley Park,7,Nateete Kyengera Nsangi Maya,nate_nate_vall,Maya (via Nateete Busega),E,include,10am-2pm,10,1,2,57.5,12.5,51.25,57.5,63.75,4000.0
 Valley Park,7,Nateete Kyengera Nsangi Maya,nate_nate_vall,Maya (via Nateete Busega),E,include,10am-2pm,11,1,7,55.8571428571429,20,42.5,55,62.5,4000.0
-Valley Park,7,Nateete Kyengera Nsangi Maya,nate_nate_vall,Maya (via Nateete Busega),E,include,10am-2pm,12,1,8,57,28.25,44,61.5,72.25,4000.0
-Valley Park,7,Nateete Kyengera Nsangi Maya,nate_nate_vall,Maya (via Nateete Busega),E,include,10am-2pm,13,1,8,46.625,21.25,39.25,58,60.5,4000.0
-Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,14,1,11,38.1818181818182,26,24.5,35,50.5,2000.0
-Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,15,1,13,32.0769230769231,17,20,31,37,2000.0
-Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,16,1,12,30.5833333333333,12.75,23.75,31,36.5,2000.0
-Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,17,1,16,33.125,9,25,31.5,34,2000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,11,1,3,79.3333333333333,35.5,59.5,71,95,4000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,12,1,2,82.5,26.5,69.25,82.5,95.75,4000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,13,1,3,108.666666666667,47,82,96,129,4000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,14,1,5,105,20,91,98,111,4000.0
+Valley Park,7,Nateete Kyengera Nsangi Maya,nate_nate_vall,Maya (via Nateete Busega),E,include,10am-2pm,12,1,9,63.4444444444444,29,47,66,76,4000.0
+Valley Park,7,Nateete Kyengera Nsangi Maya,nate_nate_vall,Maya (via Nateete Busega),E,include,10am-2pm,13,1,10,44.8,22.75,36.75,53.5,59.5,4000.0
+Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,14,1,14,34.5,25.25,20,29,45.25,2000.0
+Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,15,1,15,31.6,15.5,21,30,36.5,2000.0
+Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,16,1,14,31.5,13,24.5,31,37.5,2000.0
+Valley Park,8,Namasuba Zana,nama_zana_vall,Zana,A,include,2pm-6pm,17,1,18,33,11,23,31.5,34,2000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,11,1,4,77.75,19.25,65.25,72,84.5,4000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,12,1,3,82.3333333333333,26.5,69,82,95.5,4000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,13,1,4,95.75,47.25,65.25,82,112.5,4000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_lubu_bwai,Lubugumu,C,include,11am-3pm,14,1,6,94,25,82.75,94.5,107.75,4000.0
 Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_aide_bwai,Aiden,C,include,11am-3pm,12,1,1,56,0,56,56,56,4000.0
 Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_aide_bwai,Aiden,C,include,11am-3pm,13,1,1,68,0,68,68,68,4000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,11,1,5,69,39,48,71,87,3000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,12,1,5,89.2,50,59,95,109,3000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,13,1,4,82.25,28.75,67.75,82,96.5,3000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,14,1,3,94,15.5,85.5,91,101,3000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,11,1,6,77.3333333333333,37,53.75,79,90.75,4000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,12,1,5,89.2,50,59,95,109,4000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,13,1,5,81.6,28,68,79,96,4000.0
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,14,1,4,91.5,16.5,84.75,94.5,101.25,4000.0
-Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,14,1,6,39.6666666666667,37.25,16.25,34.5,53.5,6000.0
-Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,15,1,6,54.5,30.75,27.75,52.5,58.5,6000.0
-Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,16,1,8,53,34.25,25,46.5,59.25,6000.0
-Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,17,1,10,43.9,39,22.75,49,61.75,6000.0
-Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,14,1,6,64.5,36.75,39,61.5,75.75,4000-5000-6000
-Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,15,1,6,52.8333333333333,36.75,26.5,44.5,63.25,4000-5000-6000
-Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,16,1,5,67.4,5,64,67,69,4000-5000-6000
-Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,17,1,9,52.7777777777778,38,34,45,72,4000-5000-6000
-Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,12,1,11,32.6363636363636,29,19,31,48,4000.0
-Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,13,1,11,31.2727272727273,18,21,35,39,4000.0
-Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,14,1,8,43.875,19,33,45,52,4000.0
-Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,15,1,15,28.5333333333333,14,21.5,28,35.5,4000.0
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,2pm-6pm,14,1,6,71.1666666666667,25,44,55,69,2000-3000-4000-5000
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,2pm-6pm,15,1,8,53.25,19.25,41.5,46,60.75,2000-3000-4000-5000
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,2pm-6pm,16,1,6,44,38.25,24.75,45,63,2000-3000-4000-5000
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,2pm-6pm,17,1,5,62.2,10,58,66,68,2000-3000-4000-5000
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,2pm-6pm,14,1,4,66.5,6,62.75,65,68.75,2000-4000-5000
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,2pm-6pm,15,1,6,59.3333333333333,29.5,45,51.5,74.5,2000-4000-5000
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,2pm-6pm,16,1,6,62.1666666666667,28,48.75,63.5,76.75,2000-4000-5000
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,2pm-6pm,17,1,4,62.25,7.75,57.5,60.5,65.25,2000-4000-5000
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,14,1,4,102.25,19.25,93.5,104,112.75,3000-4000-5000
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,15,1,5,78.6,21,62,72,83,3000-4000-5000
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,16,1,7,78.1428571428571,45,54,80,99,3000-4000-5000
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,17,1,4,72.75,44.25,57,85.5,101.25,3000-4000-5000
-Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,2pm-6pm,14,1,4,87.25,34.25,69.75,86.5,104,3000-3500-4000
-Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,2pm-6pm,15,1,5,92.6,14,85,92,99,3000-3500-4000
-Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,2pm-6pm,16,1,2,92,58,63,92,121,3000-3500-4000
-Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,2pm-6pm,17,1,6,110.666666666667,30.5,93.5,112.5,124,3000-3500-4000
-Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,9,1,7,43.5714285714286,21,30.5,43,51.5,1000.0
-Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,10,1,7,45.8571428571429,14.5,37.5,41,52,1000.0
-Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,11,1,10,49.4,22.25,31.25,40,53.5,1000.0
-Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,12,1,14,37.0714285714286,33.5,21.25,33.5,54.75,1000.0
-Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,bwai_ssem_nate,Ssemuto road (Kiweebwa),D,include,2pm-6pm,14,1,3,70.6666666666667,11,65.5,72,76.5,8000.0
-Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,bwai_ssem_nate,Ssemuto road (Kiweebwa),D,include,2pm-6pm,15,1,6,98.6666666666667,64.5,66.25,100,130.75,8000.0
-Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,bwai_ssem_nate,Ssemuto road (Kiweebwa),D,include,2pm-6pm,16,1,5,74.2,26,57,68,83,8000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,11,1,6,69.6666666666667,29.75,53.75,72,83.5,3000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,12,1,6,88,40.75,64.75,88.5,105.5,3000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,13,1,5,77.2,29,67,68,96,3000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,nama_zana_bwai,Zzana,C,include,11am-3pm,14,1,4,80.25,26.25,69.75,85.5,96,3000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,11,1,7,76.7142857142857,30,59.5,73,89.5,4000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,12,1,6,88,40.75,64.75,88.5,105.5,4000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,13,1,6,77.5,24.5,67.25,73.5,91.75,4000.0
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,kajj_kajj_bwai,Kajjansi Town,C,include,11am-3pm,14,1,5,81,32,66,91,98,4000.0
+Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,14,1,9,39.4444444444444,22,26,40,48,6000.0
+Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,15,1,8,55,33.25,30.75,52.5,64,6000.0
+Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,16,1,13,45.7692307692308,28,24,43,52,6000.0
+Bwaise Taxi Park,132,Entebbe,ente_expr_bwai,Kitooro via Express,F,include,2pm-6pm,17,1,12,41.25,37.75,21.5,40.5,59.25,6000.0
+Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,14,1,7,63.8571428571429,27.5,45,60,72.5,4000-5000-6000
+Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,15,1,7,62.4285714285714,64.5,28,58,92.5,4000-5000-6000
+Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,16,1,8,65.625,13.25,60.25,68,73.5,4000-5000-6000
+Bwaise Taxi Park,132,Entebbe,ente_kajj_bwai,Kitooro via Kajjansi,F,include,2pm-6pm,17,1,13,47.3076923076923,20,30,43,50,4000-5000-6000
+Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,12,1,16,30.6875,24,19,30.5,43,4000.0
+Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,13,1,16,29.8125,18,20,31.5,38,4000.0
+Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,14,1,11,41.2727272727273,19,32,45,51,4000.0
+Bwaise Taxi Park,87,Mukono Lugazi,muko_muko_bwai,Mukono wantoni,F,include,12pm-4pm,15,1,20,28.45,12.25,22.75,28.5,35,4000.0
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,11am-3pm,11,1,8,49.625,18.75,38.75,47,57.5,2000-3000-4000-5000
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,11am-3pm,12,1,8,56.875,21,42.25,58,63.25,2000-3000-4000-5000
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,11am-3pm,13,1,10,46.9,24.75,36.25,44.5,61,2000-3000-4000-5000
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,nans_gobe_bwai,Gobero,C,include,11am-3pm,14,1,8,67.5,19,46,56.5,65,2000-3000-4000-5000
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,11am-3pm,11,1,7,71.7142857142857,42,47.5,70,89.5,2000-4000-5000
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,11am-3pm,12,1,9,70.6666666666667,58,45,63,103,2000-4000-5000
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,11am-3pm,13,1,9,57.8888888888889,25,45,59,70,2000-4000-5000
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,buse_maya_bwai,Maya,C,include,11am-3pm,14,1,6,64,7.5,58.25,65,65.75,2000-4000-5000
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,14,1,5,98.6,21,84,103,105,3000-4000-5000
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,15,1,6,77.1666666666667,16.25,64,71,80.25,3000-4000-5000
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,16,1,8,74.625,48,46.5,76,94.5,3000-4000-5000
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,bulo_bujj_bwai,Bujjuko,B,include,2pm-6pm,17,1,5,81.6,36,72,99,108,3000-4000-5000
+Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,11am-3pm,11,1,5,103.2,8,97,105,105,3000-3500-4000
+Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,11am-3pm,12,1,6,87,58.5,57.75,60,116.25,3000-3500-4000
+Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,11am-3pm,13,1,5,63,52,35,50,87,3000-3500-4000
+Bwaise Taxi Park,89,Busabala,busa_busa_bwai,Busabala,C,include,11am-3pm,14,1,4,87.25,34.25,69.75,86.5,104,3000-3500-4000
+Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,9,1,10,41.8,22.5,29.75,45,52.25,1000.0
+Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,10,1,8,44.5,16,35,40.5,51,1000.0
+Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,11,1,11,49.3636363636364,19.5,33.5,41,53,1000.0
+Nakawa Taxi Park,73,Ntinda,ntin_ntin_naka,Ntinda kumuzikiti,A,include,9am-1pm,12,1,17,35.9411764705882,28,20,30,48,1000.0
+Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,bwai_ssem_nate,Ssemuto road (Kiweebwa),D,include,2pm-6pm,14,1,4,65.25,17.75,56.5,65.5,74.25,8000.0
+Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,bwai_ssem_nate,Ssemuto road (Kiweebwa),D,include,2pm-6pm,15,1,7,97.4285714285714,55,71.5,90,126.5,8000.0
+Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,bwai_ssem_nate,Ssemuto road (Kiweebwa),D,include,2pm-6pm,16,1,6,70.5,23,56.25,62.5,79.25,8000.0
 Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,bwai_ssem_nate,Ssemuto road (Kiweebwa),D,include,2pm-6pm,17,1,6,87.3333333333333,41.5,64.75,81,106.25,8000.0
 Nateete Taxi Park,75,Zana Ndejje Namasuba,zana_lubu_nate,Lubugumu,D,include,2pm-6pm,14,1,4,83.25,44.25,52.25,65.5,96.5,3500.0
-Nateete Taxi Park,75,Zana Ndejje Namasuba,zana_lubu_nate,Lubugumu,D,include,2pm-6pm,15,1,2,131.5,32.5,115.25,131.5,147.75,3500.0
-Nateete Taxi Park,75,Zana Ndejje Namasuba,zana_lubu_nate,Lubugumu,D,include,2pm-6pm,16,1,6,79,56.25,40.25,80,96.5,3500.0
-Nateete Taxi Park,75,Zana Ndejje Namasuba,zana_lubu_nate,Lubugumu,D,include,2pm-6pm,17,1,1,62,0,62,62,62,3500.0
-Nateete Taxi Park,77,Mukono Seeta,muko_want_nate,Wantone,D,include,2pm-6pm,14,1,4,90.25,17.25,82.5,92,99.75,6000.0
+Nateete Taxi Park,75,Zana Ndejje Namasuba,zana_lubu_nate,Lubugumu,D,include,2pm-6pm,15,1,3,130.666666666667,32.5,114,129,146.5,3500.0
+Nateete Taxi Park,75,Zana Ndejje Namasuba,zana_lubu_nate,Lubugumu,D,include,2pm-6pm,16,1,7,74.5714285714286,55.5,39.5,68,95,3500.0
+Nateete Taxi Park,75,Zana Ndejje Namasuba,zana_lubu_nate,Lubugumu,D,include,2pm-6pm,17,1,2,56.5,5.5,53.75,56.5,59.25,3500.0
+Nateete Taxi Park,77,Mukono Seeta,muko_want_nate,Wantone,D,include,2pm-6pm,14,1,5,80.2,34,60,90,94,6000.0
 Nateete Taxi Park,77,Mukono Seeta,muko_want_nate,Wantone,D,include,2pm-6pm,15,1,3,95.3333333333333,45,75.5,106,120.5,6000.0
-Nateete Taxi Park,77,Mukono Seeta,muko_want_nate,Wantone,D,include,2pm-6pm,16,1,6,90,45.75,61.25,72.5,107,6000.0
+Nateete Taxi Park,77,Mukono Seeta,muko_want_nate,Wantone,D,include,2pm-6pm,16,1,7,91.4285714285714,45.5,62.5,80,108,6000.0
 Nateete Taxi Park,77,Mukono Seeta,muko_want_nate,Wantone,D,include,2pm-6pm,17,1,6,95.8333333333333,16.25,72.5,82.5,88.75,6000.0
 Nateete Taxi Park,82,Nansana Wakiso,nans_gand_nate,Ganda Kyebando,D,include,2pm-6pm,14,1,8,75.875,72.75,37.25,87.5,110,4000.0
-Nateete Taxi Park,82,Nansana Wakiso,nans_gand_nate,Ganda Kyebando,D,include,2pm-6pm,15,1,7,60.1428571428571,45,38.5,44,83.5,4000.0
+Nateete Taxi Park,82,Nansana Wakiso,nans_gand_nate,Ganda Kyebando,D,include,2pm-6pm,15,1,9,63.5555555555556,63,39,47,102,4000.0
 Nateete Taxi Park,82,Nansana Wakiso,nans_gand_nate,Ganda Kyebando,D,include,2pm-6pm,16,1,5,89.4,53,58,92,111,4000.0
-Nateete Taxi Park,82,Nansana Wakiso,nans_gand_nate,Ganda Kyebando,D,include,2pm-6pm,17,1,6,58.3333333333333,19.5,52.25,60.5,71.75,4000.0
+Nateete Taxi Park,82,Nansana Wakiso,nans_gand_nate,Ganda Kyebando,D,include,2pm-6pm,17,1,7,61,22,53.5,65,75.5,4000.0
 Nateete Taxi Park,82,Nansana Wakiso,nans_kaki_nate,Kakiri,D,include,2pm-6pm,14,1,8,75.875,72.75,37.25,87.5,110,5000.0
-Nateete Taxi Park,82,Nansana Wakiso,nans_kaki_nate,Kakiri,D,include,2pm-6pm,15,1,7,60.1428571428571,45,38.5,44,83.5,5000.0
+Nateete Taxi Park,82,Nansana Wakiso,nans_kaki_nate,Kakiri,D,include,2pm-6pm,15,1,9,63.5555555555556,63,39,47,102,5000.0
 Nateete Taxi Park,82,Nansana Wakiso,nans_kaki_nate,Kakiri,D,include,2pm-6pm,16,1,5,89.4,53,58,92,111,5000.0
-Nateete Taxi Park,82,Nansana Wakiso,nans_kaki_nate,Kakiri,D,include,2pm-6pm,17,1,6,58.3333333333333,19.5,52.25,60.5,71.75,5000.0
+Nateete Taxi Park,82,Nansana Wakiso,nans_kaki_nate,Kakiri,D,include,2pm-6pm,17,1,7,61,22,53.5,65,75.5,5000.0
 Nateete Taxi Park,79,Entebbe Kajjansi,ente_kito_nate,Kitooro,F,include,2pm-6pm,14,1,11,40.1818181818182,14,34,47,48,5000.0
 Nateete Taxi Park,79,Entebbe Kajjansi,ente_kito_nate,Kitooro,F,include,2pm-6pm,15,1,10,44.9,29.5,29.25,53,58.75,5000.0
 Nateete Taxi Park,79,Entebbe Kajjansi,ente_kito_nate,Kitooro,F,include,2pm-6pm,16,1,12,32.4166666666667,15,24.25,33,39.25,5000.0
 Nateete Taxi Park,79,Entebbe Kajjansi,ente_kito_nate,Kitooro,F,include,2pm-6pm,17,1,13,30.6153846153846,16,21,25,37,5000.0
 Busega Taxi Park,-13,Nansana Wakiso,nans_waki_buse,Wakiso town,E,include,9am-1pm,9,1,6,42.8333333333333,21.75,23.75,33.5,45.5,4000.0
-Busega Taxi Park,-13,Nansana Wakiso,nans_waki_buse,Wakiso town,E,include,9am-1pm,10,1,8,57.125,58,20.25,42,78.25,4000.0
-Busega Taxi Park,-13,Nansana Wakiso,nans_waki_buse,Wakiso town,E,include,9am-1pm,11,1,3,48.6666666666667,24,37,50,61,4000.0
-Busega Taxi Park,-13,Nansana Wakiso,nans_waki_buse,Wakiso town,E,include,9am-1pm,12,1,9,51.5555555555556,42,35,47,77,4000.0
-Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,14,1,10,34.5,12,28,39.5,40,5000.0
-Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,15,1,12,36.9166666666667,29,25.25,32,54.25,5000.0
-Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,16,1,11,32.1818181818182,22,21,25,43,5000.0
-Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,17,1,15,36.4,16.5,26,30,42.5,5000.0
-Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,14,1,8,31.25,10.25,25.25,31,35.5,5000.0
-Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,15,1,9,49.4444444444444,35,40,42,75,5000.0
-Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,16,1,8,60,27.75,48.5,57.5,76.25,5000.0
-Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,17,1,10,40.2,22.5,29.75,39.5,52.25,5000.0
-Busega Taxi Park,-19,Mukono,muko_muko_buse,Mukono Wantoni,B,include,2pm-6pm,14,1,7,63.2857142857143,17,60.5,75,77.5,6000.0
-Busega Taxi Park,-19,Mukono,muko_muko_buse,Mukono Wantoni,B,include,2pm-6pm,15,1,4,78,36,57.75,73.5,93.75,6000.0
-Busega Taxi Park,-19,Mukono,muko_muko_buse,Mukono Wantoni,B,include,2pm-6pm,16,1,7,77.5714285714286,26,69,70,95,6000.0
+Busega Taxi Park,-13,Nansana Wakiso,nans_waki_buse,Wakiso town,E,include,9am-1pm,10,1,9,55.2222222222222,38,22,40,60,4000.0
+Busega Taxi Park,-13,Nansana Wakiso,nans_waki_buse,Wakiso town,E,include,9am-1pm,11,1,4,56.5,30.5,43.5,61,74,4000.0
+Busega Taxi Park,-13,Nansana Wakiso,nans_waki_buse,Wakiso town,E,include,9am-1pm,12,1,10,52.2,36,36.25,51,72.25,4000.0
+Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,14,1,11,34.5454545454545,10,30,39,40,5000.0
+Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,15,1,16,34.5,31.75,22.5,30.5,54.25,5000.0
+Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,16,1,13,31.2307692307692,18,22,26,40,5000.0
+Busega Taxi Park,-15,Entebbe Express,ente_expr_buse,kitooro via Express,F,include,2pm-6pm,17,1,16,38.125,18,26.5,30.5,44.5,5000.0
+Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,14,1,10,32.8,11.75,27,33,38.75,5000.0
+Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,15,1,10,48.7,27.5,40,42,67.5,5000.0
+Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,16,1,9,58.8888888888889,20,50,55,70,5000.0
+Busega Taxi Park,-15,Entebbe Express,ente_kajj_buse,Kitooro via Kajjansi,F,include,2pm-6pm,17,1,12,40.4166666666667,29.25,26,39.5,55.25,5000.0
+Busega Taxi Park,-19,Mukono,muko_muko_buse,Mukono Wantoni,B,include,2pm-6pm,14,1,9,61.4444444444444,26,50,75,76,6000.0
+Busega Taxi Park,-19,Mukono,muko_muko_buse,Mukono Wantoni,B,include,2pm-6pm,15,1,5,75.2,29,59,64,88,6000.0
+Busega Taxi Park,-19,Mukono,muko_muko_buse,Mukono Wantoni,B,include,2pm-6pm,16,1,8,76,22.5,68,69.5,90.5,6000.0
 Busega Taxi Park,-19,Mukono,muko_muko_buse,Mukono Wantoni,B,include,2pm-6pm,17,1,6,68,19.5,56.5,73,76,6000.0
-Busega Taxi Park,-20,Gayaza Nakasajja,gaya_naka_buse,Nakasajja,B,include,2pm-6pm,14,1,4,66.5,30.5,54.75,73.5,85.25,5000.0
-Busega Taxi Park,-20,Gayaza Nakasajja,gaya_naka_buse,Nakasajja,B,include,2pm-6pm,15,1,4,95.75,28.25,72.75,78,101,5000.0
+Busega Taxi Park,-20,Gayaza Nakasajja,gaya_naka_buse,Nakasajja,B,include,2pm-6pm,14,1,5,64.8,20,58,69,78,5000.0
+Busega Taxi Park,-20,Gayaza Nakasajja,gaya_naka_buse,Nakasajja,B,include,2pm-6pm,15,1,5,89.8,13,69,74,82,5000.0
 Busega Taxi Park,-20,Gayaza Nakasajja,gaya_naka_buse,Nakasajja,B,include,2pm-6pm,16,1,4,91.75,50.75,66.25,91.5,117,5000.0
-Busega Taxi Park,-20,Gayaza Nakasajja,gaya_naka_buse,Nakasajja,B,include,2pm-6pm,17,1,6,77.5,34,56.75,76,90.75,5000.0
-Busega Taxi Park,-20,Gayaza Nakasajja,gaya_buwa_buse,Buwambo,B,include,2pm-6pm,14,1,4,66.5,30.5,54.75,73.5,85.25,6000.0
-Busega Taxi Park,-20,Gayaza Nakasajja,gaya_buwa_buse,Buwambo,B,include,2pm-6pm,15,1,4,95.75,28.25,72.75,78,101,6000.0
+Busega Taxi Park,-20,Gayaza Nakasajja,gaya_naka_buse,Nakasajja,B,include,2pm-6pm,17,1,7,85.7142857142857,45,60.5,84,105.5,5000.0
+Busega Taxi Park,-20,Gayaza Nakasajja,gaya_buwa_buse,Buwambo,B,include,2pm-6pm,14,1,5,64.8,20,58,69,78,6000.0
+Busega Taxi Park,-20,Gayaza Nakasajja,gaya_buwa_buse,Buwambo,B,include,2pm-6pm,15,1,5,89.8,13,69,74,82,6000.0
 Busega Taxi Park,-20,Gayaza Nakasajja,gaya_buwa_buse,Buwambo,B,include,2pm-6pm,16,1,4,91.75,50.75,66.25,91.5,117,6000.0
-Busega Taxi Park,-20,Gayaza Nakasajja,gaya_buwa_buse,Buwambo,B,include,2pm-6pm,17,1,6,77.5,34,56.75,76,90.75,6000.0
-Busega Taxi Park,-21,Mpigi,mpig_mpig_buse,Mpigi town,B,include,2pm-6pm,14,1,3,55,27.5,45,70,72.5,5000.0
-Busega Taxi Park,-21,Mpigi,mpig_mpig_buse,Mpigi town,B,include,2pm-6pm,15,1,4,85.5,66.5,58.5,98,125,5000.0
-Busega Taxi Park,-21,Mpigi,mpig_mpig_buse,Mpigi town,B,include,2pm-6pm,16,1,6,86.6666666666667,68,54,80.5,122,5000.0
-Busega Taxi Park,-21,Mpigi,mpig_mpig_buse,Mpigi town,B,include,2pm-6pm,17,1,5,51,30,30,31,60,5000.0
+Busega Taxi Park,-20,Gayaza Nakasajja,gaya_buwa_buse,Buwambo,B,include,2pm-6pm,17,1,7,85.7142857142857,45,60.5,84,105.5,6000.0

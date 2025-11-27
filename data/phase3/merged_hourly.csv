@@ -1,107 +1,103 @@
 park_name,branch_code,stage,strata,route_code,route_name,Time (start hour),Observed average frequency (oaf),p75_oaf,max_route_fare,target_freq_route,calculated_payments
 Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,9,42.8333333333333,45.5,4000,25,6.307692307692308
-Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,10,57.125,78.25,4000,25,9.527156549520766
-Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,11,48.6666666666667,61,4000,25,8.262295081967213
-Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,12,51.5555555555556,77,4000,25,9.454545454545455
-Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,14,34.5,40,5000,15,8.75
-Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,15,36.9166666666667,54.25,5000,15,10.129032258064516
-Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,16,32.1818181818182,43,5000,15,9.116279069767442
-Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,17,36.4,42.5,5000,15,9.058823529411764
-Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,14,31.25,35.5,5000,25,4.140845070422535
-Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,15,49.4444444444444,75,5000,25,9.333333333333334
-Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,16,60,76.25,5000,25,9.40983606557377
-Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,17,40.2,52.25,5000,25,7.301435406698565
-Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,14,63.2857142857143,77.5,6000,35,7.677419354838709
-Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,15,78,93.75,6000,35,8.773333333333333
-Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,16,77.5714285714286,95,6000,35,8.842105263157894
+Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,10,55.2222222222222,60,4000,25,8.166666666666666
+Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,11,56.5,74,4000,25,9.27027027027027
+Busega Taxi Park,-13,Nansana Wakiso,E,nans_waki_buse,Wakiso town,12,52.2,72.25,4000,25,9.155709342560554
+Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,14,34.5454545454545,40,5000,15,8.75
+Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,15,34.5,54.25,5000,15,10.129032258064516
+Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,16,31.2307692307692,40,5000,15,8.75
+Busega Taxi Park,-15,Entebbe Express,F,ente_expr_buse,kitooro via Express,17,38.125,44.5,5000,15,9.280898876404494
+Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,14,32.8,38.75,5000,25,4.967741935483871
+Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,15,48.7,67.5,5000,25,8.814814814814815
+Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,16,58.8888888888889,70,5000,25,9
+Busega Taxi Park,-15,Entebbe Express,F,ente_kajj_buse,Kitooro via Kajjansi,17,40.4166666666667,55.25,5000,25,7.665158371040723
+Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,14,61.4444444444444,76,6000,35,7.552631578947368
+Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,15,75.2,88,6000,35,8.431818181818182
+Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,16,76,90.5,6000,35,8.585635359116022
 Busega Taxi Park,-19,Mukono,B,muko_muko_buse,Mukono Wantoni,17,68,76,6000,35,7.552631578947368
-Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,14,66.5,85.25,6000,40,7.431085043988269
-Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,15,95.75,101,6000,40,8.455445544554456
+Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,14,64.8,78,6000,40,6.82051282051282
+Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,15,89.8,82,6000,40,7.170731707317073
 Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,16,91.75,117,6000,40,9.213675213675215
-Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,17,77.5,90.75,6000,40,7.8292011019283745
-Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_naka_buse,Nakasajja,14,66.5,85.25,5000,40,7.431085043988269
-Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_naka_buse,Nakasajja,15,95.75,101,5000,40,8.455445544554456
+Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_buwa_buse,Buwambo,17,85.7142857142857,105.5,6000,40,8.691943127962086
+Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_naka_buse,Nakasajja,14,64.8,78,5000,40,6.82051282051282
+Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_naka_buse,Nakasajja,15,89.8,82,5000,40,7.170731707317073
 Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_naka_buse,Nakasajja,16,91.75,117,5000,40,9.213675213675215
-Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_naka_buse,Nakasajja,17,77.5,90.75,5000,40,7.8292011019283745
-Busega Taxi Park,-21,Mpigi,B,mpig_mpig_buse,Mpigi town,14,55,72.5,5000,35,7.241379310344827
-Busega Taxi Park,-21,Mpigi,B,mpig_mpig_buse,Mpigi town,15,85.5,125,5000,35,10.08
-Busega Taxi Park,-21,Mpigi,B,mpig_mpig_buse,Mpigi town,16,86.6666666666667,122,5000,35,9.98360655737705
-Busega Taxi Park,-21,Mpigi,B,mpig_mpig_buse,Mpigi town,17,51,60,5000,35,5.833333333333333
-Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,14,39.6666666666667,53.5,6000,25,7.457943925233644
-Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,15,54.5,58.5,6000,25,8.017094017094017
-Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,16,53,59.25,6000,25,8.092827004219409
-Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,17,43.9,61.75,6000,25,8.331983805668017
-Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,14,64.5,75.75,6000,30,8.455445544554454
-Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,15,52.8333333333333,63.25,6000,30,7.359683794466403
-Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,16,67.4,69,6000,30,7.91304347826087
-Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,17,52.7777777777778,72,6000,30,8.166666666666666
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,14,66.5,68.75,5000,30,7.8909090909090915
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,15,59.3333333333333,74.5,5000,30,8.36241610738255
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,16,62.1666666666667,76.75,5000,30,8.527687296416937
-Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,17,62.25,65.25,5000,30,7.563218390804598
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,11,77.3333333333333,90.75,4000,40,7.8292011019283745
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,12,89.2,109,4000,40,8.862385321100918
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,13,81.6,96,4000,40,8.166666666666668
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,14,91.5,101.25,4000,40,8.469135802469134
+Busega Taxi Park,-20,Gayaza Nakasajja,B,gaya_naka_buse,Nakasajja,17,85.7142857142857,105.5,5000,40,8.691943127962086
+Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,14,39.4444444444444,48,6000,25,6.708333333333334
+Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,15,55,64,6000,25,8.53125
+Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,16,45.7692307692308,52,6000,25,7.269230769230769
+Bwaise Taxi Park,132,Entebbe,F,ente_expr_bwai,Kitooro via Express,17,41.25,59.25,6000,25,8.092827004219409
+Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,14,63.8571428571429,72.5,6000,30,8.206896551724137
+Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,15,62.4285714285714,92.5,6000,30,9.45945945945946
+Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,16,65.625,73.5,6000,30,8.285714285714285
+Bwaise Taxi Park,132,Entebbe,F,ente_kajj_bwai,Kitooro via Kajjansi,17,47.3076923076923,50,6000,30,5.6000000000000005
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,11,71.7142857142857,89.5,5000,35,8.525139664804469
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,12,70.6666666666667,103,5000,35,9.242718446601941
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,13,57.8888888888889,70,5000,35,7
+Bwaise Taxi Park,135,Busega Nsanji Kyengera,C,buse_maya_bwai,Maya,14,64,65.75,5000,35,6.5475285171102655
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,11,76.7142857142857,89.5,4000,40,7.743016759776537
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,12,88,105.5,4000,40,8.691943127962086
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,13,77.5,91.75,4000,40,7.896457765667575
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,kajj_kajj_bwai,Kajjansi Town,14,81,98,4000,40,8.285714285714285
 Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_aide_bwai,Aiden,12,56,56,4000,30,6.5
 Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_aide_bwai,Aiden,13,68,68,4000,30,7.823529411764706
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,11,79.3333333333333,95,4000,45,7.368421052631578
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,12,82.5,95.75,4000,45,7.420365535248043
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,13,108.666666666667,129,4000,45,9.116279069767442
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,14,105,111,4000,45,8.324324324324323
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,11,69,87,3000,40,7.563218390804598
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,12,89.2,109,3000,40,8.862385321100918
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,13,82.25,96.5,3000,40,8.196891191709843
-Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,14,94,101,3000,40,8.455445544554456
-Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,12,32.6363636363636,48,4000,15,9.625
-Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,13,31.2727272727273,39,4000,15,8.615384615384615
-Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,14,43.875,52,4000,15,9.961538461538462
-Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,15,28.5333333333333,35.5,4000,15,8.08450704225352
-Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,14,87.25,104,4000,50,7.269230769230769
-Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,15,92.6,99,4000,50,6.929292929292929
-Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,16,92,121,4000,50,8.214876033057852
-Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,17,110.666666666667,124,4000,50,8.35483870967742
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,14,102.25,112.75,5000,40,9.033259423503326
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,15,78.6,83,5000,40,7.253012048192771
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,16,78.1428571428571,99,5000,40,8.343434343434343
-Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,17,72.75,101.25,5000,40,8.469135802469134
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,14,71.1666666666667,69,5000,30,7.91304347826087
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,15,53.25,60.75,5000,30,7.08641975308642
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,16,44,63,5000,30,7.333333333333333
-Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,17,62.2,68,5000,30,7.823529411764706
-Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,9,43.5714285714286,51.5,1000,20,8.563106796116504
-Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,10,45.8571428571429,52,1000,20,8.615384615384615
-Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,11,49.4,53.5,1000,20,8.766355140186915
-Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,12,37.0714285714286,54.75,1000,20,8.885844748858448
-Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,D,bwai_ssem_nate,Ssemuto road (Kiweebwa),14,70.6666666666667,76.5,8000,40,6.679738562091503
-Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,D,bwai_ssem_nate,Ssemuto road (Kiweebwa),15,98.6666666666667,130.75,8000,40,9.717017208413003
-Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,D,bwai_ssem_nate,Ssemuto road (Kiweebwa),16,74.2,83,8000,40,7.253012048192771
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,11,77.75,84.5,4000,45,6.544378698224852
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,12,82.3333333333333,95.5,4000,45,7.4031413612565435
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,13,95.75,112.5,4000,45,8.4
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_lubu_bwai,Lubugumu,14,94,107.75,4000,45,8.153132250580047
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,11,69.6666666666667,83.5,3000,40,7.293413173652694
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,12,88,105.5,3000,40,8.691943127962086
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,13,77.2,96,3000,40,8.166666666666668
+Bwaise Taxi Park,137_and_-7,Kajjansi / Namasuba,C,nama_zana_bwai,Zzana,14,80.25,96,3000,40,8.166666666666668
+Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,12,30.6875,43,4000,15,9.116279069767442
+Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,13,29.8125,38,4000,15,8.473684210526315
+Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,14,41.2727272727273,51,4000,15,9.882352941176471
+Bwaise Taxi Park,87,Mukono Lugazi,F,muko_muko_bwai,Mukono wantoni,15,28.45,35,4000,15,8
+Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,11,103.2,105,4000,45,8
+Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,12,87,116.25,4000,45,8.580645161290324
+Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,13,63,87,4000,45,6.758620689655173
+Bwaise Taxi Park,89,Busabala,C,busa_busa_bwai,Busabala,14,87.25,104,4000,45,7.942307692307692
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,14,98.6,105,5000,40,8.666666666666666
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,15,77.1666666666667,80.25,5000,40,7.021806853582554
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,16,74.625,94.5,5000,40,8.074074074074074
+Bwaise Taxi Park,90,Buloba bulenga Bujjuko,B,bulo_bujj_bwai,Bujjuko,17,81.6,108,5000,40,8.814814814814815
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,11,49.625,57.5,5000,30,6.695652173913044
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,12,56.875,63.25,5000,30,7.359683794466403
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,13,46.9,61,5000,30,7.114754098360656
+Bwaise Taxi Park,92,Nansana-wakiso-Kakiri-Gobero,C,nans_gobe_bwai,Gobero,14,67.5,65,5000,30,7.538461538461539
+Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,9,41.8,52.25,1000,20,8.641148325358852
+Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,10,44.5,51,1000,20,8.509803921568627
+Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,11,49.3636363636364,53,1000,20,8.716981132075471
+Nakawa Taxi Park,73,Ntinda,A,ntin_ntin_naka,Ntinda kumuzikiti,12,35.9411764705882,48,1000,20,8.166666666666668
+Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,D,bwai_ssem_nate,Ssemuto road (Kiweebwa),14,65.25,74.25,8000,40,6.457912457912458
+Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,D,bwai_ssem_nate,Ssemuto road (Kiweebwa),15,97.4285714285714,126.5,8000,40,9.57312252964427
+Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,D,bwai_ssem_nate,Ssemuto road (Kiweebwa),16,70.5,79.25,8000,40,6.933753943217666
 Nateete Taxi Park,-9,Bwaise Kawempe Bombo Luwero,D,bwai_ssem_nate,Ssemuto road (Kiweebwa),17,87.3333333333333,106.25,8000,40,8.729411764705883
 Nateete Taxi Park,75,Zana Ndejje Namasuba,D,zana_lubu_nate,Lubugumu,14,83.25,96.5,3500,45,7.471502590673574
-Nateete Taxi Park,75,Zana Ndejje Namasuba,D,zana_lubu_nate,Lubugumu,15,131.5,147.75,3500,45,9.736040609137056
-Nateete Taxi Park,75,Zana Ndejje Namasuba,D,zana_lubu_nate,Lubugumu,16,79,96.5,3500,45,7.471502590673574
-Nateete Taxi Park,75,Zana Ndejje Namasuba,D,zana_lubu_nate,Lubugumu,17,62,62,3500,45,3.8387096774193545
-Nateete Taxi Park,77,Mukono Seeta,D,muko_want_nate,Wantone,14,90.25,99.75,6000,45,7.684210526315789
+Nateete Taxi Park,75,Zana Ndejje Namasuba,D,zana_lubu_nate,Lubugumu,15,130.666666666667,146.5,3500,45,9.699658703071673
+Nateete Taxi Park,75,Zana Ndejje Namasuba,D,zana_lubu_nate,Lubugumu,16,74.5714285714286,95,3500,45,7.368421052631578
+Nateete Taxi Park,75,Zana Ndejje Namasuba,D,zana_lubu_nate,Lubugumu,17,56.5,59.25,3500,45,3.367088607594937
+Nateete Taxi Park,77,Mukono Seeta,D,muko_want_nate,Wantone,14,80.2,94,6000,45,7.297872340425531
 Nateete Taxi Park,77,Mukono Seeta,D,muko_want_nate,Wantone,15,95.3333333333333,120.5,6000,45,8.771784232365146
-Nateete Taxi Park,77,Mukono Seeta,D,muko_want_nate,Wantone,16,90,107,6000,45,8.11214953271028
+Nateete Taxi Park,77,Mukono Seeta,D,muko_want_nate,Wantone,16,91.4285714285714,108,6000,45,8.166666666666666
 Nateete Taxi Park,77,Mukono Seeta,D,muko_want_nate,Wantone,17,95.8333333333333,88.75,6000,45,6.901408450704226
 Nateete Taxi Park,79,Entebbe Kajjansi,F,ente_kito_nate,Kitooro,14,40.1818181818182,48,5000,20,8.166666666666668
 Nateete Taxi Park,79,Entebbe Kajjansi,F,ente_kito_nate,Kitooro,15,44.9,58.75,5000,20,9.23404255319149
 Nateete Taxi Park,79,Entebbe Kajjansi,F,ente_kito_nate,Kitooro,16,32.4166666666667,39.25,5000,20,6.86624203821656
 Nateete Taxi Park,79,Entebbe Kajjansi,F,ente_kito_nate,Kitooro,17,30.6153846153846,37,5000,20,6.4324324324324325
 Nateete Taxi Park,82,Nansana Wakiso,D,nans_gand_nate,Ganda Kyebando,14,75.875,110,4000,35,9.545454545454545
-Nateete Taxi Park,82,Nansana Wakiso,D,nans_gand_nate,Ganda Kyebando,15,60.1428571428571,83.5,4000,35,8.131736526946106
+Nateete Taxi Park,82,Nansana Wakiso,D,nans_gand_nate,Ganda Kyebando,15,63.5555555555556,102,4000,35,9.19607843137255
 Nateete Taxi Park,82,Nansana Wakiso,D,nans_gand_nate,Ganda Kyebando,16,89.4,111,4000,35,9.585585585585585
-Nateete Taxi Park,82,Nansana Wakiso,D,nans_gand_nate,Ganda Kyebando,17,58.3333333333333,71.75,4000,35,7.170731707317073
+Nateete Taxi Park,82,Nansana Wakiso,D,nans_gand_nate,Ganda Kyebando,17,61,75.5,4000,35,7.509933774834437
 Nateete Taxi Park,82,Nansana Wakiso,D,nans_kaki_nate,Kakiri,14,75.875,110,5000,35,9.545454545454545
-Nateete Taxi Park,82,Nansana Wakiso,D,nans_kaki_nate,Kakiri,15,60.1428571428571,83.5,5000,35,8.131736526946106
+Nateete Taxi Park,82,Nansana Wakiso,D,nans_kaki_nate,Kakiri,15,63.5555555555556,102,5000,35,9.19607843137255
 Nateete Taxi Park,82,Nansana Wakiso,D,nans_kaki_nate,Kakiri,16,89.4,111,5000,35,9.585585585585585
-Nateete Taxi Park,82,Nansana Wakiso,D,nans_kaki_nate,Kakiri,17,58.3333333333333,71.75,5000,35,7.170731707317073
-Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),10,45,45,4000,25,6.222222222222222
-Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),11,55.8571428571429,62.5,4000,25,8.4
-Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),12,57,72.25,4000,25,9.155709342560554
-Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),13,46.625,60.5,4000,25,8.214876033057852
-Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,14,38.1818181818182,50.5,2000,15,9.841584158415843
-Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,15,32.0769230769231,37,2000,15,8.324324324324325
-Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,16,30.5833333333333,36.5,2000,15,8.246575342465754
-Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,17,33.125,34,2000,15,7.823529411764706
+Nateete Taxi Park,82,Nansana Wakiso,D,nans_kaki_nate,Kakiri,17,61,75.5,5000,35,7.509933774834437
+Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),10,57.5,63.75,4000,30,7.411764705882353
+Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),11,55.8571428571429,62.5,4000,30,7.28
+Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),12,63.4444444444444,76,4000,30,8.473684210526315
+Valley Park,7,Nateete Kyengera Nsangi Maya,E,nate_nate_vall,Maya (via Nateete Busega),13,44.8,59.5,4000,30,6.9411764705882355
+Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,14,34.5,45.25,2000,15,9.359116022099448
+Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,15,31.6,36.5,2000,15,8.246575342465754
+Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,16,31.5,37.5,2000,15,8.4
+Valley Park,8,Namasuba Zana,A,nama_zana_vall,Zana,17,33,34,2000,15,7.823529411764706
