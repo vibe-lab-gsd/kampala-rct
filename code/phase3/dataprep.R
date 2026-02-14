@@ -7,18 +7,19 @@ library(googlesheets4)
 
 
 # Directory ------------------------------------------------------------------
-git_dir <- "C:/Users/Gray Collins/Documents/GitHub/kampala-rct"
-drive_path <- "G:/Shared drives/ugandatransit/uganda_transit_archives"
+git_dir <- path.expand("~/Documents/GitHub/kampala-rct")
+drive_path <- path.expand("~/Library/CloudStorage/GoogleDrive-emok@g.harvard.edu/Shared drives/ugandatransit/uganda_transit_archives")
 phase <- "phase3"
-
 
 
 # Create route_hourly dataset ------------------------------------------------------------------
 # freq_summary_stats_All.xlsx = calculations run in guideform_descriptivestats_hfc.Rmd 
   # G:\Shared drives\ugandatransit\uganda_transit_archives\dataoutput\frequency-intervention-otp\guide-form-summary\phase3
 
-hwmeans_raw <- read.xlsx(file.path(drive_path, r'(\dataoutput\frequency-intervention-otp\guide-form-summary)',
-                                   phase, "freq_summary_stats_All.xlsx"))
+subfolder <- "dataoutput/frequency-intervention-otp/guide-form-summary"
+hwmeans_raw <- read.xlsx(
+  file.path(drive_path, subfolder, phase, "freq_summary_stats_All.xlsx")
+)
 
 route_hourly_pre <- hwmeans_raw %>%
   mutate(branch_code = str_extract_all(stage, "^(-*)\\d+(?=:)", simplify = T) %>% as.character()) %>% 
@@ -121,7 +122,16 @@ mergers_target_freq <- route_hourly_mergers %>%
            # route_code_2, route_name_2,  # use for merged routes 
            tstart, tend) %>%
   summarise(
-    target_freq_route = round(mean(`Observed average frequency (oaf)`/2, na.rm=T)/5)*5,  # avg frequency/2 , rounded to nearest 5
+    target_freq_route = round(mean(`Observed average frequency (oaf)`/2, na.rm = TRUE) / 5) * 5,
+    .groups = "drop"
+  ) %>%
+  # Manual override for ente_expr_buse
+  mutate(
+    target_freq_route = dplyr::if_else(
+      route_code == "ente_expr_buse",
+      20,
+      target_freq_route
+    )
   )
 
 
